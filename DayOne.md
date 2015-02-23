@@ -112,7 +112,28 @@ Essential part of measuring Return Of Investment (ROI)
 
 # Organizing IT Service Management - Slide 30
 
+Processes are strategic assets when they create competitivie advantage or market differentiation
 
+
+## Four aspects of every process
+
+Every process needs to:
+* Be measureable
+* Delivery specific result
+* Delivers to customer or stakeholder
+* Respond to a specific event - track back to a trigger
+
+# RACI Model
+Responsible Accountable Consulted and Informed
+
+There to define roles and responsibilities. 
+
+
+# Service Lifecycles - 35
+
+Try to align with business strategy
+
+# Itil Processes and Functions - 38 (Know all the phases and their sub-categories)
 
 Definitions:
 
@@ -120,10 +141,12 @@ Definitions:
 > A structured set of activities, defined to accomplish a specific set of 
 > Takes > Input > for defined output
 
-> ######functions<a name="functions"></a>
+> ###### functions <a name="functions"></a>
 > group of people and automated measures that accomplish a common goal
 
 * __Customers__ Those who buy goods or services
 * __Users__ Those who use the service on a day-to-day basis
 * __Suppliers__ Third parties responsible for supplying goods or services that are required to deliver IT services.
+
+
 

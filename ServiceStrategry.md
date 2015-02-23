@@ -1,6 +1,13 @@
 # Service and Strategry
 
-Key Itil Concepts:
+* Link activities to outcomes critical to customers
+* Accurately understand the needs of the business, then reflect on how those needs are offered.
+
+> ###### Setting the strategy
+> Steve jobs had a vision of what Apple was going to be.
+> He defined what good should look like.
+
+Key ITIL Concepts:
 
 ## The Four Ps
 * __Perspective__
