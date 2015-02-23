@@ -103,6 +103,95 @@ Affected by External and Internal Processes:
 > #### Additional Service Value Concepts
 > Service Value also includes the associated concepts of services as __Assets__, __Value__, __Networks__, __Value Creation__ and __Value Capture__.
 
+
+## Service Management as a Strategic Asset
+Service Providder depends on its strategic assets to succeed
+
+
+
+## Service Portolio Managemnet
+Provider has right mix of services to balance the investment in IT. 
+
+* Which services to provide
+* maintain definitive portfolio
+* Evaluate how achieve their strategy
+* [Control](#control) services offered
+
+> __Control:__<a name="#control"></a> Phone providers control data access by allocating a number of MB per month
+
+## Services Portfolio Management - Scope
+
+* Services in pipeline, services that are being delivered (catalog), retirement
+* Primary concern, generating value from the service
+* Working with business units to link each service to outcomes
+* Evaluation - evaluate how the new service provides better value
+
+> Service Portfolio Management is Cyclical
+> `...` > `Define` > `Analyze` > `Approve` > `Charter` > `...`
+
+### Define
+Define the need of the business and how the service can meet that need. Business case.
+
+### Analyze
+Value proposition. Prioritization - define requirements and resources that _could_ be allocated.
+
+### Approve
+Go over analysis and receive sign-off on implementing the proposition.
+* What will this do for or to us
+
+### Charter
+Communicate to the stakeholders and assign resources
+
+
+### Demand Management
+
+Understand customer demand for services. Provision the capacity to meet the demands
+
+* Minimize uncertainty in demand
+* Provide reliable planning data for Capacity Management
+* Avoid underused capacity and over capcity.
+
+#### Patterns of Business Activity (PBA)
+
+##### Classification
+Where did it originate
+
+##### Attributes
+Frequency, volume, location and duration
+
+##### Requirements
+Performance, security, availability, privacy, latency or tolerance for delay
+
+##### Service asset requirements
+Draft a Utilization profile that contains resources that facilitate a PBA.
+
+
+## Financial Management
+
+* Secure the appropriate level of funding. Funding has to meet design, develop and deliver services to meet organizations needs and strategy
+* Acts as a median to ensure that we're not overcommitting
+* Balance between cost and quality 
+
+Scope:
+
+* Budgeting
+* Accounting
+* Charging
+
+### Objectives
+
+* maintain a cost framework
+* financial impact
+* Funding
+* good stewardship
+* expense and income (duh)
+* Manage expenditure
+* Financial policies
+* Accounting
+* forecasting
+* Reovering costs
+
+
 ## Service Provider Types
 
 * Type I
@@ -118,7 +207,7 @@ Services multiple business units within an organization
 ### Type III
 Operates as an external service provider serving multiple customers
 
-## Service Management as a Strategic Asset
+
 
 ## Critical Success Factors (CFSs)
 
@@ -147,6 +236,8 @@ Protocol that the service provider folows
 * Service Interfaces
 * Risk Management
 
+
+
 ### Organizational Development Stages
 How should the service be delivered? 
 
@@ -161,10 +252,6 @@ How users interact with each service and process
 
 ### Risk Management
 How are risks for a service type targeted and addressed 
-
-## Service Portolio Managemnet
-
-### Demand Management
 
 ## Key Roles And Responsibilities
 
