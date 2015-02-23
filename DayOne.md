@@ -80,7 +80,7 @@ Internal or External provider that provides IT related services
 * Within the service provider organization there are many different stakeholders including the functions, groups and teams that deliver the services
 
 
-> #######functions
+> ######functions
 > group of people and automated measures that accomplish a common goal
 
 
