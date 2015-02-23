@@ -158,4 +158,49 @@ Tools can assist by:
 * Validating designs
 
 
+## Service Level Management
+
+Ensure an _agreed upon_ level of all current IT services and future services are delvivered upon _achievable_ targets
+
+* Service Level Requirements - SLR
+
+* Service Level Agreement - SLA
+Responsbilities of both parties. Emphasis must be on agreement. Are we achieveing the level of service we agreed upon with the customer?
+
+* Operational Level Agreement - OLA
+
+Is an agreement that your internal department will provide a level of agreement. Agreement between departments of the same organization.
+
+* Underpinning Contract - UC
+
+Service provider and external supplier agree on delivery of service. 
+
+> Internet provider will provide internet service to web host provider
+
+## Service Based SLA
+
+### Service Based SLA
+* Covers one service, for all customers of the service
+
+### Cusotmer Based SLA
+* SLA is an agreement with an individual customer group, covering all the services they use
+
+### Multi-Level SLA
+* Corporate Level
+* Customer Level
+* Service Level
+
+#### Corporate Level
+Coversa ll the generic SLM issues appropriate to every customer in organziation
+
+#### Customer Level
+Covers all SLM issues relevant to particular customer group or busines unit, regardless of the service being used
+
+#### Service Level
+Covers all SLM issues relevant to the specific service, in relation to a specific customer group
+
+
+
+
+
 
