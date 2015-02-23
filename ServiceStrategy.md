@@ -108,7 +108,7 @@ Affected by External and Internal Processes:
 Service Provider depends on its strategic assets to succeed
 
 
-## Service Portfolio Management <a href="#portfoliomanagement"></a>
+## Service Portfolio Management<a href="#portfoliomanagement"></a>
 Provider has right mix of services to balance the investment in IT. 
 
 * Which services to provide
@@ -153,7 +153,7 @@ Go over analysis and receive sign-off on implementing the proposition.
 Communicate to the stakeholders and assign resources
 
 
-### Demand Management <a name="#demandmanagement"></a>
+### Demand Management
 
 Understand customer demand for services. Provision the capacity to meet the demands
 

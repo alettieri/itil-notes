@@ -9,12 +9,12 @@
 ??? Go over the relationships again
 
 * Service Level Management
-* Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demandmanagement)
+* Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demand-management)
 * Availability Management
 * IT Service Continuity Management 
 * Information Security Management 
 * Supplier Management
-* Service Catalog Management -> Depends on [Service Portfolio Management](ServiceStrategy.md#portfoliomanagement)
+* Service Catalog Management -> Depends on [Service Portfolio Management](ServiceStrategy.md#service-portfolio-management)
 * Design Coordination
 
 ## Service Design - Value to Business
