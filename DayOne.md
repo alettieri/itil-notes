@@ -64,6 +64,10 @@ External also provides services, but those are usually services that can't be co
 * Internal providers face outsourcing and must run their IT as a business
 
 
+# ITIL
+Information Tecnology Information Libary 
+
+
 # Why is ITIL Successful
 
 * Common Framework
@@ -78,14 +82,6 @@ Internal or External provider that provides IT related services
 # Stakeholders in service managemenet
 
 Within the service provider organization there are many different stakeholders including the [__functions__](#functions), groups and teams that deliver the services
-
-
-> ######functions<a name="functions"></a>
-> group of people and automated measures that accomplish a common goal
-
-* __Customers__ Those who buy goods or services
-* __Users__ Those who use the service on a day-to-day basis
-* __Suppliers__ Third parties responsible for supplying goods or services that are required to deliver IT services.
 
 
 # IT Service Management
@@ -108,5 +104,26 @@ Within the service provider organization there are many different stakeholders i
 
 # Internal and External customers
 
-* Customers treated similiary, not the same
-* 
+
+# Internal and External Services
+
+Essential part of measuring Return Of Investment (ROI)
+
+
+# Organizing IT Service Management - Slide 30
+
+
+
+Definitions:
+
+> ###### Process <a name="process"></a>
+> A structured set of activities, defined to accomplish a specific set of 
+> Takes > Input > for defined output
+
+> ######functions<a name="functions"></a>
+> group of people and automated measures that accomplish a common goal
+
+* __Customers__ Those who buy goods or services
+* __Users__ Those who use the service on a day-to-day basis
+* __Suppliers__ Third parties responsible for supplying goods or services that are required to deliver IT services.
+
