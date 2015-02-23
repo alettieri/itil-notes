@@ -1,4 +1,4 @@
-# Service and Strategry
+# Service and Strategy
 
 * Link activities to outcomes critical to customers
 * Accurately understand the needs of the business, then reflect on how those needs are offered.
@@ -25,7 +25,7 @@ __Service Value__ = Utility + Warranty
 
 * Available enough ? 
 * Capacity enough ? 
-* Continous enough ? 
+* Continuous enough ? 
 * Secure enough ? 
 
 
@@ -51,7 +51,7 @@ How the Provider will achieve their vision
 The fundamental way of doing things -- distinctive patterns in _decisions_ and _actions_ over time.
 
 
-## Competition and Marketspace
+## Competition and Market Space
 
 There's always competition. 
 
@@ -73,7 +73,7 @@ __Utility__ + __Warranty__ = Value
 
 How will the service generate value for the organization? 
 
-If the service does not provide real value, we can: modifiy, redesign or remove the service.
+If the service does not provide real value, we can: modify, redesign or remove the service.
 
 > Perception is everything. 
 > Value created by meeting expectations
@@ -105,11 +105,10 @@ Affected by External and Internal Processes:
 
 
 ## Service Management as a Strategic Asset
-Service Providder depends on its strategic assets to succeed
+Service Provider depends on its strategic assets to succeed
 
 
-
-## Service Portolio Managemnet
+## Service Portfolio Management
 Provider has right mix of services to balance the investment in IT. 
 
 * Which services to provide
@@ -149,7 +148,7 @@ Understand customer demand for services. Provision the capacity to meet the dema
 
 * Minimize uncertainty in demand
 * Provide reliable planning data for Capacity Management
-* Avoid underused capacity and over capcity.
+* Avoid underused capacity and over capacity.
 
 #### Patterns of Business Activity (PBA)
 
@@ -169,7 +168,7 @@ Draft a Utilization profile that contains resources that facilitate a PBA.
 ## Financial Management
 
 * Secure the appropriate level of funding. Funding has to meet design, develop and deliver services to meet organizations needs and strategy
-* Acts as a median to ensure that we're not overcommitting
+* Acts as a median to ensure that we're not over committing
 * Balance between cost and quality 
 
 Scope:
@@ -190,6 +189,72 @@ Scope:
 * Accounting
 * forecasting
 * Reovering costs
+
+
+## BRM - Business Relationship Management
+
+Establish and maintain business relationship between the service provider and the customer. Idenitify customer needs and ensure we can meet them.
+
+> Getting to know people and who you're supporting. Then determine how to help them achieve a goal. 
+
+* Ensure high level of customer satisfaction. 
+
+> We don't need a yes man. 
+
+* Establish and maintain relationship between service and customer. 
+* Identify changes to environment that could impact the service provided.
+
+> Customers may not like the system because they're not using it properly.
+> Training might help target that issue that. 
+
+* Establish and articulate business requirements for new services
+* Work with customers to ensure that we're delivering
+
+> Know the Business and IT
+
+### Business Relationship Management - Scope: 
+
+* Outcomes needed to achieve
+* Services offered and how they're used by the customer
+* Trends in technology can impact current services
+
+> Example: Video Card drives may not work on upgraded OS
+
+* Customer satisfaction and what action plans have been put in place
+
+
+
+### Terminology
+Processes
+
+Terminology
+
+* Utility and Warranty = Value
+	* Security
+	* Capacity
+	* Continuity
+	* Availability
+* Business Case
+* Capabilities and Resources
+* Customer and Service Assets
+* Service Portfolio
+	* Service Catalog
+
+> ##### Utility
+> Fit for Purpose
+
+> ##### Warranty
+> Fit for Use
+
+
+
+
+
+
+
+
+
+
 
 
 ## Service Provider Types
@@ -254,8 +319,6 @@ How users interact with each service and process
 How are risks for a service type targeted and addressed 
 
 ## Key Roles And Responsibilities
-
-### BRM - Business Relationship Manager
 
 * Establish relationship with customer
 * Understand customer business needs and outcomes
