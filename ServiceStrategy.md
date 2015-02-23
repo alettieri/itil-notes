@@ -7,6 +7,28 @@
 > Steve jobs had a vision of what Apple was going to be.
 > He defined what good should look like.
 
+## Main Purpose
+Think about the _Why_ before _How_
+
+* Identify opportunities
+* Understanding Capability (cost might be an example)
+
+## Service Value Definition - 76 - Test
+__Service Value__ = Utility + Warranty
+
+### Utility:
+
+* Performance Supported?
+* Constraints Removed?
+
+### Warranty:
+
+* Available enough ? 
+* Capacity enough ? 
+* Continous enough ? 
+* Secure enough ? 
+
+
 Key ITIL Concepts:
 
 ## The Four Ps
@@ -43,6 +65,40 @@ Two things make up service value:
 
 * Service Utility: What is the customer getting, what is the value our service
 * Service Warranty: How the service is delivered, and it's stability: available, secure, coverage and continuity (is it ready for the future?).
+
+__Utility__ + __Warranty__ = Value
+
+
+## Value creation through Services
+
+How will the service generate value for the organization? 
+
+If the service does not provide real value, we can: modifiy, redesign or remove the service.
+
+> Perception is everything. 
+> Value created by meeting expectations
+
+### Service Types
+* Core
+* Enabling
+* Enhancing
+
+#### Core
+Deliver basic outcomes desired by one or more customers
+
+#### Enabling
+Services needed for a core service to be delivered
+
+#### Enhancing
+Services added to a core service to make it more exciting and enticing
+
+### Strategy Processes
+
+Affected by External and Internal Processes:
+
+Define the Market > Develop Offerings > Develop Strategic Assets > Prepare for Execution
+
+
 
 > #### Additional Service Value Concepts
 > Service Value also includes the associated concepts of services as __Assets__, __Value__, __Networks__, __Value Creation__ and __Value Capture__.
