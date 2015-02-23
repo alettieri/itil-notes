@@ -6,7 +6,7 @@
 
 > We're desigining Service and Process solutions
 
-??? Go over the relationships again
+Processes:<a href="#processes"></a>
 
 * Service Level Management
 * Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demand-management)
@@ -70,7 +70,55 @@ Carries out the process
 </table>
 
 
+### Service Portfolio
+* Contains information on all future requirements
+User does not need details
+Supports all processes
 
+### Service Catalog
+* Contains all details of operational services
+* Subset of Service Portfolio
+> Customer facing view of all services IT have in use
+
+## Vital Business Function
+
+VBF used to reflect the part of a business process that is critical to the success of the business
+
+> VBF are determined by the business not by Service Provider
+
+## Service Design Package
+
+Defines a set of design constraints
+Package is passed to -> Service Transition
+
+Solution space is defined within constraints. 
+
+## Design Coordination [(Processes)](#processes)
+
+> Keep all the plates (processes) spinning, make sure they're never dropped
+
+## Design Coordination - Scope
+
+Includes:
+
+ Design Coordination Process
+ All design activity
+ new or changed service solutions designed for transition into environment
+
+Does not Include:
+
+* Responsibility for any activities or processes outside of the design stage
+* Designing the detailed service solutions themselves of the production fo the individual parts of the SDPs. Individual Projects or srevices managenemnt are responsible for these.
+
+## Service Design Aspects (On Test)
+
+There are 5 Aspects of Design (On Test)
+
+* Proccesses
+* Technology & Architecture
+* Measurement
+* Service Management Systems
+* Service Solutions
 
 
 ## Four Ps of Design
@@ -92,3 +140,22 @@ the processes, roles and activities involved in the provision of IT services
 ## Partners
 
 The vendors, manufacturers and suppliers used to assist and support IT service provision.
+
+
+## Technology and Architecture - Service Design
+
+Tools used for:
+* Hardware and Software design
+* Environment design
+* Process
+* Data
+
+Tools can assist by:
+* Speeding up design process
+
+* Ensure standards and conventions are followed
+* Prototyping and modeling
+* Validating designs
+
+
+
