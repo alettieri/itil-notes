@@ -84,7 +84,7 @@ Within the service provider organization there are many different stakeholders i
 > group of people and automated measures that accomplish a common goal
 
 * __Customers__ Those who buy goods or services
-• __Users__ Those who use the service on a day-to-day basis
-• __Suppliers__ Third parties responsible for supplying goods or services that are required to deliver IT services.
+* __Users__ Those who use the service on a day-to-day basis
+* __Suppliers__ Third parties responsible for supplying goods or services that are required to deliver IT services.
 
 
