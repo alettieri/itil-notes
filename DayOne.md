@@ -77,7 +77,7 @@ Internal or External provider that provides IT related services
 
 # Stakeholders in service managemenet
 
-* Within the service provider organization there are many different stakeholders including the functions, groups and teams that deliver the services
+Within the service provider organization there are many different stakeholders including the __functions__, groups and teams that deliver the services
 
 
 > ######functions
