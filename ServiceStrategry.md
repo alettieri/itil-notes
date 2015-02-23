@@ -55,3 +55,74 @@ Services multiple business units within an organization
 ### Type III
 Operates as an external service provider serving multiple customers
 
+## Service Management as a Strategic Asset
+
+## Critical Success Factors (CFSs)
+
+## Service Oriented Accounting
+
+## Service Provisioning Models
+
+### Managed Service
+Business needs a service, Business funds an in-house service to fill the need
+
+### Shared Service
+Service provided to multiple business units
+
+### Utility
+Consulting oriented service for business, depending on business needs (how often and when)
+
+## Organization Design and Development
+
+## Service Provisioning Models
+
+Protocol that the service provider folows
+
+* Organizational Development Stages
+* Sourcing Strategy
+* Service Analytics
+* Service Interfaces
+* Risk Management
+
+### Organizational Development Stages
+How should the service be delivered? 
+
+### Sourcing Strategy
+How will the service be implemented, in-house skills, consulting, consulting and in-house, outsourced, prime consortium or selective outsourcing
+
+### Service Analytics
+Measuring how the service is performing using analytics
+
+### Service Interfaces
+How users interact with each service and process
+
+### Risk Management
+How are risks for a service type targeted and addressed 
+
+## Service Portolio Managemnet
+
+### Demand Management
+
+## Key Roles And Responsibilities
+
+### BRM - Business Relationship Manager
+
+* Establish relationship with customer
+* Understand customer business needs and outcomes
+* Work closely with Product Managers to negotiate productive capacity on behalf of customers
+
+### PM - Product Manager
+
+* Responsible for Service life-cycle
+* Responsibile for making sure that Service meets business needs
+
+### CSO - Chief Sourcing Officer
+
+* Manages sourcing
+* Leading and managing sourcing office and strategy along with the CIO
+
+
+
+
+
+
