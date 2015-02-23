@@ -77,10 +77,10 @@ Internal or External provider that provides IT related services
 
 # Stakeholders in service managemenet
 
-Within the service provider organization there are many different stakeholders including the __functions__, groups and teams that deliver the services
+Within the service provider organization there are many different stakeholders including the [__functions__](#functions), groups and teams that deliver the services
 
 
-> ######functions
+> ######functions<a name="functions"></a>
 > group of people and automated measures that accomplish a common goal
 
 * __Customers__ Those who buy goods or services
@@ -88,3 +88,25 @@ Within the service provider organization there are many different stakeholders i
 * __Suppliers__ Third parties responsible for supplying goods or services that are required to deliver IT services.
 
 
+# IT Service Management
+
+* Intangible measure - How do we measure our productivity
+* Demand is covered with assets of customer
+* High level of contact - open channel
+* Perishable nature of service output
+
+# Benefits of IT Service Management
+
+* Improved quality service provision
+* Cost-justifiable service quality
+* Meet business, customer and user demands
+* Integrated centralized processes
+* Everyone knows their roles & responsibilities in service provision
+
+> Not only are we going to get better IT services. 
+> Our Services are going to get better as we continue to work on them. 
+
+# Internal and External customers
+
+* Customers treated similiary, not the same
+* 
