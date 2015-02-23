@@ -31,6 +31,47 @@ Right person for the job
 Example of common reference model for the identification of the skills needed to develop effective IT Services.
 
 
+## Process Owner
+???
+
+## Process Manager
+
+* Plan and coordinate process activities
+* activities are carried out as required
+* appoint people
+* Manage resources
+* Work with service owners and other process managers
+* Monitor and Report on Performance
+* Identify improvements for Continous Service Integration
+* Work with CSI manager and process owner to review and prioritize improvements
+* Make improvements to process implementation
+
+## Process Practictioner
+
+Carries out the process
+
+* Carrying out one or more activities
+* Understand how role contribute to delivery
+* Ensure that kick offs (inputs), outputs and interfaces (who is consulted/informed) for their activities are correct
+* Creating or updating records to show that activities have been carried out correctly
+
+## Service Portfolio and Catalog
+
+<table>
+	<tr>
+		<td>Service Pipeline</td>
+	</tr>
+	<tr>
+		<td>Service Catalog</td>
+	</tr>
+	<tr>
+		<td>Retired Services</td>
+	</tr>
+</table>
+
+
+
+
 
 ## Four Ps of Design
 
