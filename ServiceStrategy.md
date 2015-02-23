@@ -96,7 +96,7 @@ Services added to a core service to make it more exciting and enticing
 
 Affected by External and Internal Processes:
 
-Define the Market > Develop Offerings > Develop Strategic Assets > Prepare for Execution
+Define the Market __>__ Develop Offerings __>__ Develop Strategic Assets __>__ Prepare for Execution
 
 
 
