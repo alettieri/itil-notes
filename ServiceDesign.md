@@ -6,6 +6,31 @@
 
 > We're desigining Service and Process solutions
 
+??? Go over the relationships again
+
+* Service Level Management
+* Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demandmanagement)
+* Availability Management
+* IT Service Continuity Management 
+* Information Security Management 
+* Supplier Management
+* Service Catalog Management -> Depends on [Service Portfolio Management](ServiceStrategy.md#portfoliomanagement)
+* Design Coordination
+
+## Service Design - Value to Business
+* Improved alignment
+
+> Final output of Service Design: __Service Design Package - SDP__
+> Service Design builds the SDP
+
+## Competence and Skills Framework
+
+Right person for the job
+
+### Skills Framewfork for the Information Age (SFIA)
+Example of common reference model for the identification of the skills needed to develop effective IT Services.
+
+
 
 ## Four Ps of Design
 

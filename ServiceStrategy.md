@@ -108,7 +108,7 @@ Affected by External and Internal Processes:
 Service Provider depends on its strategic assets to succeed
 
 
-## Service Portfolio Management
+## Service Portfolio Management <a href="#portfoliomanagement"></a>
 Provider has right mix of services to balance the investment in IT. 
 
 * Which services to provide
@@ -117,6 +117,17 @@ Provider has right mix of services to balance the investment in IT.
 * [Control](#control) services offered
 
 > __Control:__<a name="#control"></a> Phone providers control data access by allocating a number of MB per month
+
+
+### Service Catalog Management
+
+To ensure that a Service Catalog is produced, maintained and contains accurate information on all operational services and those available for deployment
+
+* Manage information contained within Service Catalog
+* Ensure accuracy
+* Reflect details, status, interfaces and dependencies of all current services
+
+> __Service Catalog Management__ falls under __Service Portfolio Management__
 
 ## Services Portfolio Management - Scope
 
@@ -142,13 +153,16 @@ Go over analysis and receive sign-off on implementing the proposition.
 Communicate to the stakeholders and assign resources
 
 
-### Demand Management
+### Demand Management <a name="#demandmanagement"></a>
 
 Understand customer demand for services. Provision the capacity to meet the demands
 
 * Minimize uncertainty in demand
-* Provide reliable planning data for Capacity Management
-* Avoid underused capacity and over capacity.
+* Provide reliable planning data for [Capacity Management](#)
+* Avoid underused capacity and over capacity
+
+> Demand Management provides data for [Capacity Management](#)
+
 
 #### Patterns of Business Activity (PBA)
 
@@ -238,7 +252,9 @@ Terminology
 * Capabilities and Resources
 * Customer and Service Assets
 * Service Portfolio
-	* Service Catalog
+	* Service Catalog 
+
+
 
 > ##### Utility
 > Fit for Purpose
