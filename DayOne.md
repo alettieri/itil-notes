@@ -31,13 +31,12 @@
 
 IT as an:
 
-* Organization
+* [Organization](#organization)
 * Component
-* Service
+* [Service](#service)
 * Asset
 
-
-# IT as a Service
+# IT as a Service<a href="#service"></a>
 
 __Services__ are a means of delivering value to customers by facilitating the __outcomes__ customers want to achieve without the ownership of specific costs and risks. 
 
@@ -62,7 +61,7 @@ External also provides services, but those are usually services that can't be co
 > ###### Why External Service Provider?
 > We may not have the skillset to do a service, so, we have an external service provider do the work
 
-# Service Provider - IT as an Organization
+# Service Provider - IT as an Organization<a href="#organization"></a>
 
 IT is an enabler for business processes. Within the realm of IT, customers buy IT services.
 
@@ -97,17 +96,34 @@ Part of a different organization. Serve many organizations and customers, outsou
 * IT should be aware of changes in business
 * Internal providers face outsourcing and must run their IT as a business
 
+Provide competitive advantage
 
 # ITIL
 Information Tecnology Information Libary 
 
-
-# Why is ITIL Successful
+## Why is ITIL Successful
 
 * Common Framework
 * Vendor Neutral
 * Non Prescriptive/Intentionally vague - Applies to any business
 * Best Practice
+
+## Adoption of a Practice fit for your organization
+
+<table>
+	<tr>
+		<td>Business Requirements</td>
+		<td>Dynamic Environment</td>
+		<td>Sourcing Strategy</td>
+	</tr>
+	<tr>
+		<td colspan="3">Practice fit for organization</td>
+	</tr>
+	<tr>
+		<td colspan="3">IT Service Provider</td>
+	</tr>
+</table>
+
 
 # IT Service Management
 
@@ -115,8 +131,7 @@ Internal or External provider that provides IT related services
 
 # Stakeholders in service managemenet
 
-Within the service provider organization there are many different stakeholders including the [__functions__](#functions), groups and teams that deliver the services
-
+Within the service provider organization there are many different stakeholders including the [functions](#functions), groups and teams that deliver the services
 
 # IT Service Management
 
@@ -161,7 +176,6 @@ Every process needs to:
 Responsible Accountable Consulted and Informed
 
 There to define roles and responsibilities. 
-
 
 # Service Lifecycles - 35
 
