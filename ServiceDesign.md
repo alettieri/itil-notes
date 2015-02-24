@@ -388,6 +388,8 @@ Responsible for ensuring:
 
 Optimize the capacity and infrastructure to ensure that a Service is available when it needs to be available.
 
+> Vital Business Function (VBF)
+
 > ###### Example
 > Ensure that we have redundancy in place
 > Ensure we have fail overs in place
@@ -422,6 +424,14 @@ Availability Management Information System (AMIS) ???
 
 ### Concepts
 
+* [Availability](#availability)
+* [Reliability](#reliability)
+* [Maintainability (Internal Focus)](#maintanability)
+* [Resilience (Redundancy)](#resiliance)
+* [Serviceability (External Focus)](#serviceability)
+* [Security](#security)
+* [Vital Business Functions (VBFs)](#vital-business-functions)
+
 #### Availability
 #### Reliability
 
@@ -448,7 +458,12 @@ Availability is part of Reliability
 * Is the availability of this service going to adhere to our service policies
 * Vital Business Functions (VBFs)
 
+#### Vital Business Functions (VBFs)
 
+Critical element of the business process
+
+> ###### Example
+> Teller machine needs to expense money
 
 
 
