@@ -248,35 +248,12 @@ Terminology
 	* Service Catalog 
 
 
-
 > ##### Utility
 > Fit for Purpose
 
 > ##### Warranty
 > Fit for Use
 
-## Service Provider Types
-
-* Type I
-* Type II
-* Type III
-
-### Type I
-Deliver service to one specific business unit within an organization
-
-### Type II
-Services multiple business units within an organization
-
-### Type III
-Operates as an external service provider serving multiple customers
-
-
-
-## Critical Success Factors (CFSs)
-
-## Service Oriented Accounting
-
-## Service Provisioning Models
 
 ### Managed Service
 Business needs a service, Business funds an in-house service to fill the need
