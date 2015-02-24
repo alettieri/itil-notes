@@ -507,7 +507,7 @@ Mitigating risk.
 * Agreements on scope and policies
 * Risk assessment and Risk Management
 * ITSCM strategy and plans
-* Testing and maintance on plans
+* Testing and maintenance on plans
 
 
 
