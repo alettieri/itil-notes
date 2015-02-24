@@ -176,6 +176,7 @@ Definitions:
 > Process takes one or more inputs and turns them into defined outputs.
 > Proccess = Input => defined output
 
+
 > ###### functions
 > group of people and automated measures that accomplish a common goal
 
