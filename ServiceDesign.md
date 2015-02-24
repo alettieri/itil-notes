@@ -163,10 +163,8 @@ Tools can assist by:
 Ensure an _agreed upon_ level of all current IT services and future services are delvivered upon _achievable_ targets
 
 * Service Level Requirements - SLR
-
 * Service Level Agreement - SLA
 Responsbilities of both parties. Emphasis must be on agreement. Are we achieveing the level of service we agreed upon with the customer?
-
 * Operational Level Agreement - OLA
 
 Is an agreement that your internal department will provide a level of agreement. Agreement between departments of the same organization.
