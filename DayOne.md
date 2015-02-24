@@ -170,7 +170,7 @@ Essential part of measuring Return Of Investment (ROI)
 
 Processes are strategic assets when they create competitivie advantage or market differentiation
 
-## Four aspects of every PROCESS
+## Four aspects of every PROCESS - __ON TEST__
 
 Every __Process__ needs to:
 * Be measureable
