@@ -24,3 +24,15 @@ This is the time adjustments will need to be made based on Design changes due to
 * Change of service management capabilities
 
 > Transfer of Services between service providers
+
+## Value to the Bussiness - Slide 5
+
+Business is in constant change
+
+Service Transition provides:
+
+* More accurate estimations for projects
+* Clear way of working
+
+
+![Service Transition Graph](assets/service-transition.png)
