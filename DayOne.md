@@ -170,13 +170,14 @@ Essential part of measuring Return Of Investment (ROI)
 
 Processes are strategic assets when they create competitivie advantage or market differentiation
 
-## Four aspects of every PROCESS - __ON TEST__
+## Processes
 
-Every __Process__ needs to:
-* Be measureable
-* Delivery specific result
-* Delivers to customer or stakeholder
-* Respond to a specific event - track back to a trigger
+> ## Four aspects of every PROCESS - (On Test)
+> Every __Process__ needs to:
+> * Be measureable
+> * Delivery specific result
+> * Delivers to customer or stakeholder
+> * Respond to a specific event - track back to a trigger
 
 # RACI Model
 Responsible Accountable Consulted and Informed
