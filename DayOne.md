@@ -100,7 +100,7 @@ Part of a different organization. Serve many organizations and customers, outsou
 > Provide competitive advantage
 
 # ITIL
-Information Tecnology Information Libary 
+Information Technology Information Libary 
 
 ## Why is ITIL Successful
 
@@ -118,13 +118,16 @@ Information Tecnology Information Libary
 		<td>Sourcing Strategy</td>
 	</tr>
 	<tr>
-		<td colspan="3" style="text-align: center">Practice fit for organization</td>
+		<td></td>
+		<td>Practice fit for organization</td>
+		<td></td>
 	</tr>
 	<tr>
-		<td colspan="3" style="text-align: center">IT Service Provider</td>
+		<td></td>
+		<td>IT Service Provider</td>
+		<td></td>
 	</tr>
 </table>
-
 
 # IT Service Management
 
