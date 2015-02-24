@@ -32,9 +32,14 @@ Example of common reference model for the identification of the skills needed to
 
 
 ## Process Owner
-???
+
+Responssible and Accountable for a specific process.
+
+> For example if we were to define the SLM process, a Process Owner will be assigned to the process.
 
 ## Process Manager
+
+Accountable for Day-to-Day responsibility of a process.
 
 * Plan and coordinate process activities
 * activities are carried out as required
