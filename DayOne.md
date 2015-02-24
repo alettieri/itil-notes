@@ -62,6 +62,35 @@ External also provides services, but those are usually services that can't be co
 > ###### Why External Service Provider?
 > We may not have the skillset to do a service, so, we have an external service provider do the work
 
+# Service Provider - IT as an Organization
+
+IT is an enabler for business processes. Within the realm of IT, customers buy IT services.
+
+> ###### Customer
+> Someone who buys goods or services
+
+> ###### Service Provider
+> An organization supplying __services__ to one or more internal or external customers
+
+Service Providers are not IT specific, can also be HR, Finance etc.
+
+Types of Service Providers:
+
+* Internal Service Provider
+* Shared Service Unit
+* External Service Provider
+
+## Internal Service Provider
+Service Provider established close to the business. Part of the same organization as the business
+
+## Shared Service Unit
+Not part of the business, but provide business specific services like HR, Finance or IT
+
+> __Example:__ Fast HRIS
+
+## External Service Provider
+Part of a different organization. Serve many organizations and customers, outsourced company
+
 # Business and IT alignment
 
 * Customers need IT to continously support business needs, even when they change
