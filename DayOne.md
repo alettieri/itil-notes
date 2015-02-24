@@ -111,16 +111,19 @@ Information Tecnology Information Libary
 ## Adoption of a Practice fit for your organization
 
 <table>
+	<colgroup>
+		<col style="text-align: center">
+	</colgroup>
 	<tr>
 		<td>Business Requirements</td>
 		<td>Dynamic Environment</td>
 		<td>Sourcing Strategy</td>
 	</tr>
 	<tr>
-		<td colspan="3" style="text-align: center">Practice fit for organization</td>
+		<td colspan="3">Practice fit for organization</td>
 	</tr>
 	<tr>
-		<td colspan="3" style="text-align: center">IT Service Provider</td>
+		<td colspan="3">IT Service Provider</td>
 	</tr>
 </table>
 
