@@ -76,9 +76,9 @@ Service Providers are not IT specific, can also be HR, Finance etc.
 
 Types of Service Providers:
 
-* Internal Service Provider
-* Shared Service Unit
-* External Service Provider
+* [Internal Service Provider](#internal-service-provider)
+* [Shared Service Unit](#shared-service-unit)
+* [External Service Provider](#external-service-provider)
 
 ## Internal Service Provider
 Service Provider established close to the business. Part of the same organization as the business
