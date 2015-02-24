@@ -345,7 +345,7 @@ Does the business have the capacity for a particular service.
 
 > From a good outcome, does the Business have the capacity to meet that good outcome
 
-> #### Verizon Example
+> ##### Verizon Example
 > Do we have the capacity to allow our customers to upgrade their phones whenever they want?
 
 
