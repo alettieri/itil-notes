@@ -36,3 +36,29 @@ Service Transition provides:
 
 
 ![Service Transition Graph](assets/service-transition.png)
+
+## Technology and Architecture in Service Transition
+
+__ON TEST__
+
+* Service Knowldege Management
+* Configuration Management System (CMSDB)
+
+> Part of Knowledge Management System
+>
+> Store everything about CI
+
+
+## Process
+
+* Change Management
+* Service Asset and Configuration Management
+* Release and Deployment Management
+* Service Validation and Testing
+* Change Evaluation
+* Knowledge Management
+* Transition Planning and Support
+
+Design &rarr; __Transition__ &rarr; Operation
+
+
