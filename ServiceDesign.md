@@ -8,14 +8,14 @@
 
 Processes:<a href="#processes"></a>
 
-* Service Level Management
+* [Design Coordination](#design-coordination)
+* [Service Level Management](#service-level-management)
 * Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demand-management)
 * Availability Management
 * IT Service Continuity Management 
 * Information Security Management 
 * Supplier Management
 * Service Catalog Management -> Depends on [Service Portfolio Management](ServiceStrategy.md#service-portfolio-management)
-* Design Coordination
 
 ## Service Design - Value to Business
 * Improved alignment
@@ -93,9 +93,9 @@ Package is passed to -> Service Transition
 
 Solution space is defined within constraints. 
 
-## Design Coordination [(Processes)](#processes)
+## Design Coordination
 
-> Keep all the plates (processes) spinning, make sure they're never dropped
+> Keep all the plates [(processes)](#processes) spinning, make sure they're never dropped
 
 ## Design Coordination - Scope
 

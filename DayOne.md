@@ -15,7 +15,6 @@
 
 ![ITIL Process Chart](itil-process.jpg)
 
-
 # Business and Information Technology
 
 * Prioritize Information, it's valuable
@@ -167,11 +166,9 @@ __External:__ Customers who are not employued by the org, or organization that a
 
 Essential part of measuring Return Of Investment (ROI)
 
-
 # Organizing IT Service Management - Slide 30
 
 Processes are strategic assets when they create competitivie advantage or market differentiation
-
 
 ## Four aspects of every process
 
