@@ -7,10 +7,10 @@
 # The Quint essential parts of ITIL
 
 * Business
-	* Service Strategy
-	* Service Design
-	* Service Transition
-	* Service Operation
+	* [Service Strategy](ServiceStrategy.md)
+	* [Service Design](ServiceDesign.md)
+	* [Service Transition](ServiceTransition.md)
+	* [Service Operation](ServiceOperation.md)
 	* Continual Service Improvement
 
 ![ITIL Process Chart](itil-process.jpg)
@@ -195,7 +195,7 @@ Definitions:
 > ###### Process<a name="process"></a>
 > A structured set of activities, defined to accomplish a specific objective.
 > Process takes one or more inputs and turns them into defined outputs.
-> Proccess = Input => defined output
+> Proccess = Input &rarr; defined output
 
 > ###### functions<a name="functions"></a>
 > group of people and automated measures that accomplish a common goal
