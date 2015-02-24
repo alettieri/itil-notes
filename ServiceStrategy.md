@@ -166,6 +166,8 @@ Understand customer demand for services. Provision the capacity to meet the dema
 
 #### Patterns of Business Activity (PBA)
 
+Function of Demand Management
+
 ##### Classification
 Where did it originate
 
@@ -184,6 +186,8 @@ Draft a Utilization profile that contains resources that facilitate a PBA.
 * Secure the appropriate level of funding. Funding has to meet design, develop and deliver services to meet organizations needs and strategy
 * Acts as a median to ensure that we're not over committing
 * Balance between cost and quality 
+
+> Money
 
 Scope:
 
