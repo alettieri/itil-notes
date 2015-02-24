@@ -485,6 +485,10 @@ IT ensures that the Service Continuity Management process supports the Business 
 * Conduct regular Risk Assessment
 * Ensure appropriate continuity and recovery mechanisms are in place
 
+> Business says we can only be shut for maximum of 24hrs
+>
+> IT puts plan in place that ensures the meet 24hrs as a minimum goal
+
 This focuses on disaster recovery, Technical and Natural.
 Mitigating risk. 
 
@@ -492,10 +496,6 @@ Mitigating risk.
 > 
 > > Oklahoma data center built under ground to protect from Tornadoes. New threat are earthquakes.
 
-
-> Business says we can only be shut for maximum of 24hrs
->
-> IT puts plan in place that ensures the meet 24hrs as a minimum goal
 
 ### Scope
 
