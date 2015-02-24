@@ -230,7 +230,6 @@ Establish and maintain business relationship between the service provider and th
 * Customer satisfaction and what action plans have been put in place
 
 
-
 ### Terminology
 Processes
 
@@ -263,8 +262,6 @@ Service provided to multiple business units
 
 ### Utility
 Consulting oriented service for business, depending on business needs (how often and when)
-
-## Organization Design and Development
 
 ## Service Provisioning Models
 
