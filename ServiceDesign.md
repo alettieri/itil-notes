@@ -488,9 +488,9 @@ IT ensures that the Service Continuity Management process supports the Business 
 This focuses on disaster recovery, Technical and Natural.
 Mitigating risk. 
 
-> Risks evolve
+> ###### Risks evolve
 > 
-> Oklahoma data center built under ground to protect from Tornadoes. New threat are earthquakes.
+> > Oklahoma data center built under ground to protect from Tornadoes. New threat are earthquakes.
 
 
 > Business says we can only be shut for maximum of 24hrs
