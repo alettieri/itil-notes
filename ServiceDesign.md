@@ -442,7 +442,6 @@ Availability is part of Reliability
 >
 > Is the Car functional (Reliable)? 
 
-
 #### Maintainability
 * How quickly can I recover?
 * Can I respond to issues and fix them, internally.
@@ -465,6 +464,50 @@ Critical element of the business process
 > ###### Example
 > Teller machine needs to expense money
 
+### Role - Availability Manager
+
+Responsible for ensuring
+
+* Achievement of process goals
+* Delivery of Service level agreed to in SLA
+* Validate final design to meet minimum agreed on levels of availability
+
+## IT Service Continuity Management (ITSCM) - Purpose
+
+IT ensures that the Service Continuity Management process supports the Business Continuity Management process. 
+
+> The Business tells us what the Business Continuity Management (BCM) process is. 
+
+### Objectives
+
+* Build and maintain IT Service Continuity Plans
+* Complete regular Business Impact Analysis (BIA)
+* Conduct regular Risk Assessment
+* Ensure appropriate continuity and recovery mechanisms are in place
+
+This focuses on disaster recovery, Technical and Natural.
+Mitigating risk. 
+
+> Risks evolve
+> 
+> Oklahoma data center built under ground to protect from Tornadoes. New threat are earthquakes.
+
+
+> Business says we can only be shut for maximum of 24hrs
+>
+> IT puts plan in place that ensures the meet 24hrs as a minimum goal
+
+### Scope
+
+* Focus on _Disaster_ events
+* Align with Business Continuity Management (BCM)
+* Business Impact Analysis (BIA) helps define _Disaster_
+* Set critical requirements for survival
+* ITSCM supports the IT service requirements
+* Agreements on scope and policies
+* Risk assessment and Risk Management
+* ITSCM strategy and plans
+* Testing and maintance on plans
 
 
 
