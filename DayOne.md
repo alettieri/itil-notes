@@ -37,7 +37,7 @@ IT as an:
 
 # What is a Service?
 
-Services are a means o fdelivering value to customers by facilitating the outcomes customers want to achieve without the ownership of specific costs and risks. 
+Services are a means of delivering value to customers by facilitating the outcomes customers want to achieve without the ownership of specific costs and risks. 
 
 > People want the service, they do not want to do it themselves
 
