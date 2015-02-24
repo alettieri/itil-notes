@@ -429,6 +429,7 @@ Availability is part of Reliability
 
 > ###### Example
 > I have a Car that I can drive (Availability); it's an old Car.
+>
 > Is the Car functional (Reliable)? 
 
 
