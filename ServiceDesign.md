@@ -308,8 +308,7 @@ Ensure the current and future capacity and performance demands of the customer r
 
 > Right capacity for the right customers, for right service at the right time
 
-
-> Output of [Demand Management](ServiceStrategy.md#demand-management) supplies data for the Capacity Management process
+> Output of [Demand Managementt](ServiceStrategy.md#demand-management) supplies data for the Capacity Management process
 >
 > Demand Management __=>__ Capacity Management
 
@@ -321,6 +320,40 @@ Ensure the current and future capacity and performance demands of the customer r
 
 > ##### Capacity Plan
 > Help us determine current and future capacity needs of the business
+
+### Scope
+
+* Focal point of all IT performance and capacity issues
+* Encompass all areas of Technology, including facilities and environmental
+* HR where a lack may result a breach of SLA
+* Capacity Planning
+* Identify Tech trends
+
+> Keep our servers cool, example of __Environmental Capacity__
+
+### (On Test) Basic Concepts - Slide 50
+
+What's required from a:
+
+* Business Capacity Management
+* Service Capacity Management
+* Component Capacity Management
+
+#### Business Capacity Management
+
+Does the business have the capacity for a particular service. 
+
+> From a good outcome, does the Business have the capacity to meet that good outcome
+
+> #### Verizon Example
+> Do we have the capacity to allow our customers to upgrade their phones whenever they want?
+
+
+
+
+
+
+
 
 
 
