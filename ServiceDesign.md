@@ -624,7 +624,7 @@ Overview of Service Suppliers
 * Consistency of all IT supplier processes
 * Suppliers and contracts are reviewed and risk-assessed on a regular basis
 
-> ####### Reasons to review suppliers continually
+> ###### Reasons to review suppliers continually
 > Are we still dealing with the quality of suppliers? 
 >
 > Are they starting to hire questionable workers
