@@ -37,27 +37,29 @@ IT as an:
 * Asset
 
 
-# What is a Service?
+# IT as a Service
 
-Services are a means of delivering value to customers by facilitating the outcomes customers want to achieve without the ownership of specific costs and risks. 
+__Services__ are a means of delivering value to customers by facilitating the __outcomes__ customers want to achieve without the ownership of specific costs and risks. 
 
-> People want the service, they do not want to do it themselves
+> Customers want the service, they do not want to do it themselves
+
+Service is Outcome driven.
 
 ## Outcome
-The reult (intended & actual) of an activity, process, or IT service. 
+The result (intended & actual) of an activity, process, or IT service.
 
-### Intended vs Actual
+> ### Intended & Actual
+> What does good look like - Intended
+> What are we 'actually' delivering - Actual
 
-* What does good look like. What are we 'actually' delivering. 
-* Outcome-based service definition helps with business-to-IT integration. 
+* Outcome-based service definition helps with business to IT integration
 * Promotes an internal dialogue on the meaning of services
 * Customers want outcomes, but don't wish to have acountability or ownership of all the associated costs and risks
-
 * Internal vs External Service Provider 
 
 External also provides services, but those are usually services that can't be covered by the internal services. 
 
-> We may not have the skillset to do a service, have an external service provider do the work
+> We may not have the skillset to do a service, so, we have an external service provider do the work
 
 # Business and IT alignment
 
