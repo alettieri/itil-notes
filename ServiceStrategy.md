@@ -121,7 +121,11 @@ Provider has right mix of services to balance the investment in IT.
 
 ### Service Catalog Management
 
-To ensure that a Service Catalog is produced, maintained and contains accurate information on all operational services and those available for deployment
+To ensure that a Service Catalog is produced, maintained and contains accurate information on all operational services and those available for deployment.
+
+> Straddles the fence between Strategy and Design
+
+> Customer facing view of all the services we provide
 
 * Manage information contained within Service Catalog
 * Ensure accuracy
