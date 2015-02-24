@@ -13,7 +13,7 @@
 	* Service Operation
 	* Continual Service Improvement
 
-![ITIL Chart](ITIL1.png)
+![ITIL Process Chart](itil-process.jpg)
 
 
 # Business and Information Technology
