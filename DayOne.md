@@ -48,7 +48,7 @@ Service is Outcome driven.
 ## Outcome
 The result (intended & actual) of an activity, process, or IT service.
 
-> ### Intended & Actual
+> ###### Intended & Actual
 > What does good look like - Intended
 > What are we 'actually' delivering - Actual
 
@@ -59,6 +59,7 @@ The result (intended & actual) of an activity, process, or IT service.
 
 External also provides services, but those are usually services that can't be covered by the internal services. 
 
+> ###### Why External Service Provider?
 > We may not have the skillset to do a service, so, we have an external service provider do the work
 
 # Business and IT alignment
