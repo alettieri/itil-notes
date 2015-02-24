@@ -341,15 +341,106 @@ What's required from a:
 
 #### Business Capacity Management
 
-Does the business have the capacity for a particular service. 
-From a good outcome, does the Business have the capacity to meet that good outcome
+* Does the business have the capacity for a particular service. 
+* From a good outcome, does the Business have the capacity to meet that good outcome
 
 > ###### Verizon Example
 > Do we have the capacity to allow our customers to upgrade their phones whenever they want?
 
+#### Service Capacity Management
+
+* End-To-End Service
+
+> ###### Example
+> SharePoint as a Service
+
+#### Component Capacity Management
+
+Ensure IT infrastructure finite resources are monitored and measured
+
+> ###### Example
+> Physical Hardware
+
+Tools - (Read in Book):
+
+* Demand Management
+* Modeling
+* Baselining
+* Trend analysis
+* Analytical Models
+* Simulation Modeling
+* Application Sizing
+* Capacity Plan
+* The Capacity Management Information System (CMIS)
 
 
+### Role - __Capacity Manager__
 
+Responsible for ensuring:
+ 
+* Achieve the goals of the process
+* Adequate IT capacity to meet required levels of service
+* Correctly advise senior IT management on how to match capacity and demand
+* Optimization of the use of capacity
+
+
+## Availability Management
+
+Optimize the capacity and infrastructure to ensure that a Service is available when it needs to be available.
+
+> ###### Example
+> Ensure that we have redundancy in place
+> Ensure we have fail overs in place
+
+### Objectives
+
+* Identify improvement measures that we need to take when identifying any Availability related issues
+* Reduce availability related incidents
+* Availability Plan
+* Agreed upon SLA
+
+> Follow Availability best practices that are put in place by services.
+> > DNS has best practices.
+> > Active Directory has best practices.
+
+### Overview
+
+Availability Management Information System (AMIS) ???
+
+#### Reactive Activities
+
+* Monitoring
+* Measuring
+* Analyzing 
+* Reviewing
+
+#### Proactive Activities
+
+* Planning
+* Design
+* Improvement of availability
+
+### Concepts
+
+#### Availability
+#### Reliability
+
+> Availability is part of Reliability
+
+#### Maintainability
+* How quickly can I recover?
+* Can I respond to issues and fix them, internally.
+
+#### Serviceability
+* External focus
+* Is Windows XP going to service our needs? Microsoft is no longer servicing the platform, so NO.
+
+#### Resiliency
+* Is it redundant?
+
+#### Security
+* Is the availability of this service going to adhere to our service policies
+* Vital Business Functions (VBFs)
 
 
 
