@@ -171,11 +171,12 @@ Try to align with business strategy
 
 Definitions:
 
-> ###### Process <a name="process"></a>
-> A structured set of activities, defined to accomplish a specific set of 
-> Takes > Input > for defined output
+> ###### Process
+> A structured set of activities, defined to accomplish a specific objective.
+> Process takes one or more inputs and turns them into defined outputs.
+> Proccess = Input => defined output
 
-> ###### functions <a name="functions"></a>
+> ###### functions
 > group of people and automated measures that accomplish a common goal
 
 * __Customers__ Those who buy goods or services
