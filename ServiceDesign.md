@@ -308,6 +308,7 @@ Ensure the current and future capacity and performance demands of the customer r
 > Right capacity for the right customers, for right service at the right time
 
 > Output of [Demand Management](ServiceStrategy.md#demand-management) supplies data for the Capacity Management process
+> Demand Management __=>__ Capacity Management
 
 ### Improvement Measures
 
