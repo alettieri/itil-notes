@@ -97,7 +97,7 @@ Part of a different organization. Serve many organizations and customers, outsou
 * IT should be aware of changes in business
 * Internal providers face outsourcing and must run their IT as a business
 
-Provide competitive advantage
+> Provide competitive advantage
 
 # ITIL
 Information Tecnology Information Libary 
