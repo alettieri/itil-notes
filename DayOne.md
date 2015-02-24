@@ -48,8 +48,9 @@ Service is Outcome driven.
 The result (intended & actual) of an activity, process, or IT service.
 
 > ###### Intended & Actual
-> What does good look like - Intended
-> What are we 'actually' delivering - Actual
+> What does good look like? - __Intended__
+>
+> What are we 'actually' delivering? - __Actual__
 
 * Outcome-based service definition helps with business to IT integration
 * Promotes an internal dialogue on the meaning of services
@@ -133,14 +134,14 @@ Internal or External provider that provides IT related services
 
 Within the service provider organization there are many different stakeholders including the [functions](#functions), groups and teams that deliver the services
 
-# IT Service Management
+## IT Service Management - Challenges
 
 * Intangible measure - How do we measure our productivity
 * Demand is covered with assets of customer
 * High level of contact - open channel
 * Perishable nature of service output
 
-# Benefits of IT Service Management
+## IT Service Management - Benefits
 
 * Improved quality service provision
 * Cost-justifiable service quality
@@ -151,10 +152,15 @@ Within the service provider organization there are many different stakeholders i
 > Not only are we going to get better IT services. 
 > Our Services are going to get better as we continue to work on them. 
 
-# Internal and External customers
+## Internal and External Customers
 
+__Internal:__ Are customers who work in the same organization as the provider
+__External:__ Customers who are not employued by the org, or organization that are a seperate legal entity that purchase a service from the provider
 
-# Internal and External Services
+* Not all customers are the same, no matter how consistent they're treated
+* Difference between customers who work in the same organization and customers who work for another org
+
+## Internal and External Services
 
 Essential part of measuring Return Of Investment (ROI)
 
