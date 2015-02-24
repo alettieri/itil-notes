@@ -118,21 +118,6 @@ Provider has right mix of services to balance the investment in IT.
 
 > __Control:__<a name="#control"></a> Phone providers control data access by allocating a number of MB per month
 
-
-### Service Catalog Management
-
-To ensure that a Service Catalog is produced, maintained and contains accurate information on all operational services and those available for deployment.
-
-> Straddles the fence between Strategy and Design
-
-> Customer facing view of all the services we provide
-
-* Manage information contained within Service Catalog
-* Ensure accuracy
-* Reflect details, status, interfaces and dependencies of all current services
-
-> __Service Catalog Management__ falls under __Service Portfolio Management__
-
 ## Services Portfolio Management - Scope
 
 * Services in pipeline, services that are being delivered (catalog), retirement
@@ -157,7 +142,7 @@ Go over analysis and receive sign-off on implementing the proposition.
 Communicate to the stakeholders and assign resources
 
 
-### Demand Management
+## Demand Management
 
 Understand customer demand for services. Provision the capacity to meet the demands
 
@@ -269,17 +254,6 @@ Terminology
 
 > ##### Warranty
 > Fit for Use
-
-
-
-
-
-
-
-
-
-
-
 
 ## Service Provider Types
 

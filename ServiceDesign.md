@@ -15,7 +15,7 @@ Processes:<a href="#processes"></a>
 * IT Service Continuity Management 
 * Information Security Management 
 * Supplier Management
-* Service Catalog Management -> Depends on [Service Portfolio Management](ServiceStrategy.md#service-portfolio-management)
+* [Service Catalog Management](#service-catalog-management) -> Depends on [Service Portfolio Management](ServiceStrategy.md#service-portfolio-management)
 
 ## Service Design - Value to Business
 * Improved alignment
@@ -85,6 +85,11 @@ Supports all processes
 * Subset of Service Portfolio
 > Customer facing view of all services IT have in use
 
+
+
+
+
+
 ## Vital Business Function
 
 VBF used to reflect the part of a business process that is critical to the success of the business
@@ -150,18 +155,18 @@ The vendors, manufacturers and suppliers used to assist and support IT service p
 ## Technology and Architecture - Service Design
 
 Tools used for:
+
 * Hardware and Software design
 * Environment design
 * Process
 * Data
 
 Tools can assist by:
-* Speeding up design process
 
+* Speeding up design process
 * Ensure standards and conventions are followed
 * Prototyping and modeling
 * Validating designs
-
 
 ## Service Level Management
 
@@ -252,20 +257,66 @@ Subjective Perspective:
 * Changing culture
 * Representative that can help achieve the targets
 * Service Desk Commitment
-* Formulize and communicate agreement
+* Formalize and communicate agreement
 
 ### Role
 
-Service Manager is responsible forj
+Service Manager is responsible for:
+
 * Achieve goals
-* Awarness of business direction and needs (requirements)
+* Awareness of business direction and needs (requirements)
 * Consider requirements of customer
 
 ### Interfaces to SLM
 
 * Incident management gets solution time from SLM
 * Business Relationship Management gets business feedback and needs from customer
-* Availability, Capacity, Continuit and Security Management all support SLM
+* Availability, Capacity, Continuity and Security Management all support SLM
+
+## Service Catalog Management
+
+To ensure that a Service Catalog is produced, maintained and contains accurate information on all operational services and those available for deployment.
+
+> ####### Example
+> Dell supplies Home, Work and Support. That is their service Catalog.
+
+> Straddles the fence between Strategy and Design
+
+> Customer facing view of all the services we provide
+
+* Manage information contained within Service Catalog
+* Ensure accuracy
+* Reflect details, status, interfaces and dependencies of all current services
+
+> Solution fit for the organization. What makes sense for your organization?
+
+> __Service Catalog Management__ falls under __Service Portfolio Management__
+
+### Role - Service Catalog Manager
+
+__Service Catalog Manager__ is responsible for ensuring
+
+* Achievement of process goals
+* Operational services recorded within the Catalog
+* Catalog information is accurate
+* Service Catalog and Service Portfolio information are in sync
+
+## Capacity Management
+
+Ensure the current and future capacity and performance demands of the customer regarding IT service provision are delivered against justifiable costs
+
+> Right capacity for the right customers, for right service at the right time
+
+> Output of [Demand Management](ServiceStrategy.md#demand-management) supplies data for the Capacity Management process
+
+### Improvement Measures
+
+* Capacity Plan
+* Agreed upon Service Level Agreement (SLA)
+* Advice and guidance
+
+> ##### Capacity Plan
+> Help us determine current and future capacity needs of the business
 
 
 
