@@ -12,7 +12,7 @@ Processes:<a href="#processes"></a>
 * [Service Level Management](#service-level-management)
 * Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demand-management)
 * [Availability Management](#availability-management)
-* IT Service Continuity Management 
+* [IT Service Continuity Management](#it-service-continuity-management-itscm)
 * Information Security Management 
 * Supplier Management
 * [Service Catalog Management](#service-catalog-management) -> Depends on [Service Portfolio Management](ServiceStrategy.md#service-portfolio-management)
@@ -472,7 +472,7 @@ Responsible for ensuring
 * Delivery of Service level agreed to in SLA
 * Validate final design to meet minimum agreed on levels of availability
 
-## IT Service Continuity Management (ITSCM) - Purpose
+## IT Service Continuity Management (ITSCM)
 
 IT ensures that the Service Continuity Management process supports the Business Continuity Management process. 
 
@@ -576,6 +576,6 @@ Policies should cover:
 * Meet process goals
 * Develop, communicate, maintain and enforce Information Security Policy
 * Assist with Business Impact Analysis
-* Security risk management is performed in conjunction with [Availability](#availability-management) and [IT Service Continuity Management](#it-service-continuity-management)
+* Security risk management is performed in conjunction with [Availability](#availability-management) and [IT Service Continuity Management](#it-service-continuity-management-itscm)
 
 
