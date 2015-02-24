@@ -481,8 +481,8 @@ IT ensures that the Service Continuity Management process supports the Business 
 ### Objectives
 
 * Build and maintain IT Service Continuity Plans
-* Complete regular Business Impact Analysis (BIA)
-* Conduct regular Risk Assessment
+* Complete regular [Business Impact Analysis (BIA)](#purpose-of-business-impact-analysis)
+* Conduct regular [Risk Assessment](#risk-assessment)
 * Ensure appropriate continuity and recovery mechanisms are in place
 
 > Business says we can only be shut for maximum of 24hrs
@@ -510,4 +510,18 @@ Mitigating risk.
 * Testing and maintenance on plans
 
 
+### Purpose of Business Impact Analysis
+
+* Quantify the impact
+
+### Risk Assessment
+
+Accessing and reducing chance of normal operational incidents, technique of availability management
+
+### Role - IT Service Continuity Manager
+
+* Ensures Plan exists
+* Performs Business Impact Analyses
+* Implements ITSCM process and maintains accordance with SLA
+* ITSCM plans meet BCM plans
 
