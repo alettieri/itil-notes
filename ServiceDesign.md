@@ -305,7 +305,9 @@ __Service Catalog Manager__ is responsible for ensuring
 
 Ensure the current and future capacity and performance demands of the customer regarding IT service provision are delivered against justifiable costs
 
+
 > Right capacity for the right customers, for right service at the right time
+
 
 > Output of [Demand Management](ServiceStrategy.md#demand-management) supplies data for the Capacity Management process
 >
