@@ -11,7 +11,7 @@ Processes:<a href="#processes"></a>
 * [Design Coordination](#design-coordination)
 * [Service Level Management](#service-level-management)
 * Capacity Management -> Depends on [Demand Management](ServiceStrategy.md#demand-management)
-* Availability Management
+* [Availability Management](#availability-management)
 * IT Service Continuity Management 
 * Information Security Management 
 * Supplier Management
@@ -496,7 +496,6 @@ Mitigating risk.
 > 
 > > Oklahoma data center built under ground to protect from Tornadoes. New threat are earthquakes.
 
-
 ### Scope
 
 * Focus on _Disaster_ events
@@ -524,4 +523,59 @@ Accessing and reducing chance of normal operational incidents, technique of avai
 * Performs Business Impact Analyses
 * Implements ITSCM process and maintains accordance with SLA
 * ITSCM plans meet BCM plans
+
+## Information Security Management
+
+Align security needs with the security needs of the Business. 
+
+> ###### Security needs will differ
+> Military security needs may differ from our needs
+
+Overall goal protect information from harm: 
+
+* Confidentiality
+* Integrity
+* Availability
+
+> ###### CIA Triad
+> Confidentiality, Integrity and [Availability](#availability-management)
+
+### Scope
+
+* Focal point for all IT security issues
+* Produce, maintain, enforce IT security policy
+* Understand the business security environment
+	* Business security
+	* Future plans
+	* Legislature
+	* Risks and risk management
+* Prioritization of confidentiality, integrity and [availability](#availability-management)
+* Implement and Document controls
+* Mnage supplier contracts regarding security
+* Manage security breaches
+* Promote awarness
+
+> Business may have no choice to implement because of Legislature.
+
+### Information Security Policy
+
+Policies should cover:
+
+* Use and misue of assets
+* Access control
+* Password
+* Email, internet and anti-virus
+* Information classification
+* Document classification
+* Remote access
+* Policy with regard to supplier access of IT service, information and components
+* Asset disposal
+
+### Role - Information Security Manager
+
+* Meet process goals
+* Develop, communicate, maintain and enforce Information Security Policy
+* Assist with Business Impact Analysis
+* Security risk management is performed in conjunction with [Availability](#availability-management) and [IT Service Continuity Management](#it-service-continuity-management)
+
 
