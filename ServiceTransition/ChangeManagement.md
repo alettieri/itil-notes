@@ -71,7 +71,7 @@ __On Test__
 ##### Standard Change
 ##### Emergency Change
 
-> ####### Who can submit an RFC?
+> ###### Who can submit an RFC?
 > Anyone source involved Service Management life-cycle stages of services
 
 ### Activities - Slide 17 &larr;
