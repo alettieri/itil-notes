@@ -1,5 +1,8 @@
 # Incident Management
 
+> ###### Incident
+> Failure or Reduction in quality of Service.
+
 * Restore normal Service Operation as quickly as possible.
 * Minimize the adverse impact on business operations
 * Ensure service quality and availability are maintained
@@ -7,10 +10,10 @@
 
 ## Objectives
 
-* Standardized methods and procedures used for efficient and prompt response, analysis, documenting ongoing management and reporting of incidents. 
+* Standardized methods and procedures used for efficient and prompt response, analysis, documenting ongoing management and reporting of incidents.
 * Increase visiblity
-* Enhance business perception of IT
-* Align incident management activities with business
+* Enhance business perception of IT; quickly resolve and communicate incidents
+* Align incident management activities with Business
 * User Satisfaction
 
 ## Scope
@@ -38,3 +41,4 @@ _Standard_ or _specialized_ Incidents are handled in predefined path and within 
 Sequence of Incident Reporting:
 
 Identification &rarr; Logging &rarr; Categorization &rarr; Prioritization &rarr; Initial Diagnosis &rarr; Investigation and Diagnosiss &rarr; Resolution and Recovery &rarr; Closure
+
