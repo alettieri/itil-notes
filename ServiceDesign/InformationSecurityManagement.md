@@ -12,7 +12,7 @@ Overall goal protect information from harm:
 * Availability
 
 > ###### CIA Triad
-> Confidentiality, Integrity and [Availability](#availability-management)
+> Confidentiality, Integrity and [Availability](AvailabilityManagement.md)
 
 ### Scope
 
@@ -23,7 +23,7 @@ Overall goal protect information from harm:
 	* Future plans
 	* Legislature
 	* Risks and risk management
-* Prioritization of confidentiality, integrity and [availability](#availability-management)
+* Prioritization of confidentiality, integrity and [availability](AvailabilityManagement.md)
 * Implement and Document controls
 * Manage supplier contracts regarding security
 * Manage security breaches
@@ -50,4 +50,4 @@ Policies should cover:
 * Meet process goals
 * Develop, communicate, maintain and enforce Information Security Policy
 * Assist with Business Impact Analysis
-* Security risk management is performed in conjunction with [Availability](#availability-management) and [IT Service Continuity Management](InformationSecurityManagement.md)
+* Security risk management is performed in conjunction with [Availability](AvailabilityManagement.md) and [IT Service Continuity Management](InformationSecurityManagement.md)
