@@ -50,4 +50,4 @@ Policies should cover:
 * Meet process goals
 * Develop, communicate, maintain and enforce Information Security Policy
 * Assist with Business Impact Analysis
-* Security risk management is performed in conjunction with [Availability](#availability-management) and [IT Service Continuity Management](#it-service-continuity-management-itscm)
+* Security risk management is performed in conjunction with [Availability](#availability-management) and [IT Service Continuity Management](InformationSecurityManagement.md)
