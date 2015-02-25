@@ -25,6 +25,5 @@ Provide overall planning for service transitions, coordinate resources that they
 * Coordinate efforts to enable multiple transitions to be managed at the same time
 * Prioritize conflicting requirements
 * Plan budget resources needed to fulfill future requirements for service transition
-
 * Review and improve performance of transition
 * Ensure service transitions are coordinated
