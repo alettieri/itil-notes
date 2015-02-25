@@ -53,14 +53,14 @@ Processes: _Health_ of IT Security Management and _maturity_ of the IT processes
 
 __ON TEST__
 
-> Deming Cycle - **Plan**-**Do**-**Check**-**Act**
+### Deming Cycle__ - **Plan**-**Do**-**Check**-**Act**
 
 * Continual Service Improvement Model
 	* High Level of Continual Service Improvement
 
 ### CSI Model
 
-0. What is the vision
+0. What is the vision?
 0. Where are we now?
 0. Where do we want to be?
 0. How do we get there?
