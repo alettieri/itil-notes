@@ -99,7 +99,7 @@ Services added to a core service to make it more exciting and enticing
 
 Affected by External and Internal Processes:
 
-`Define the Market` > `Develop Offerings` > `Develop Strategic Assets` > `Prepare for Execution`
+`Define the Market` &rarr; `Develop Offerings` &rarr; `Develop Strategic Assets` &rarr; `Prepare for Execution`
 
 
 
