@@ -11,7 +11,7 @@ This is the time adjustments will need to be made based on Design changes due to
 * Planning & managing changes
 * Manage risk
 * Deploy releases
-* Set expections and ensure Business __Value__
+* Set exceptions and ensure Business __Value__
 * Provide Knowledge and information about service
 
 > Change Management
@@ -25,7 +25,7 @@ This is the time adjustments will need to be made based on Design changes due to
 
 > Transfer of Services between service providers
 
-### Value to the Bussiness - Slide 5
+### Value to the Business - Slide 5
 
 Business is in constant change
 
@@ -91,9 +91,9 @@ All changes are:
 
 ### Service Change
 
-Addition, MOdification or Removal of a service component and its associated documenation.
+Addition, MOdification or Removal of a service component and its associated documentation.
 
-> Not every hange is important, but every improvement is a change
+> Not every change is important, but every improvement is a change
 
 ### Request for Change (RFC)
 
@@ -134,7 +134,7 @@ __On Test__
 ##### Emergency Change
 
 > ####### Who can submit an RFC?
-> Anyone source involved Service Management lifecycle stages of services
+> Anyone source involved Service Management life-cycle stages of services
 
 ### Activities - Slide 17 &larr;
 
@@ -171,7 +171,7 @@ Authorized changes with proposed implementation date
 
 ### Change Advisory Board (CAB)
 
-Body that exists to __support__ the authorization of changes and to assist Change Management in the assessment and priortization of changes. 
+Body that exists to __support__ the authorization of changes and to assist Change Management in the assessment and prioritization of changes. 
 
 Members:
 
@@ -181,7 +181,7 @@ Members:
 * Application Devs
 * Specialist/Tech Consultant
 * Services and Operations
-* Third Partices
+* Third Parties
 
 ### Review and Close Change
 
@@ -220,8 +220,7 @@ Measurements should link back to business goals, cost and service availability
 
 * Change in culture
 * Bypassing process
-* Close relationship with Serviec sset and Configuation Management
-
+* Close relationship with Service set and Configuration Management
 
 
 
@@ -232,28 +231,28 @@ Measurements should link back to business goals, cost and service availability
 
 #### Service Asset Manager
 
-Responsible for Asset Management System including the policy, plan, process, tols and reports
+Responsible for Asset Management System including the policy, plan, process, tools and reports
 
 #### Configuration Manager
 
-Responsbile for Configuration Managerment System
+Responsible for Configuration Management System
 
 > Updates DB
 
 ### Transition Planning and Support
 
-Provide overall planning for service transtions, coordinate resources that they require
+Provide overall planning for service transitions, coordinate resources that they require
 
 Plan and coordinate the resources
-Establish new or changed services into supported environments within the predicted cost, quality and time estimeates
+Establish new or changed services into supported environments within the predicted cost, quality and time estimates
 
 Comprehensive plans
 
 ### Scope
 
-* Coordinate efforts to enable mulptile transitions to be managed at the same time
-* Priortize conflicting requirements
-* Plan budget resources needed to fulfil future requirements for service transition
+* Coordinate efforts to enable multiple transitions to be managed at the same time
+* Prioritize conflicting requirements
+* Plan budget resources needed to fulfill future requirements for service transition
 
 * Review and improve performance of transition
 * Ensure service transitions are coordinated
@@ -267,7 +266,7 @@ Define and agree deployment plans
 * Record and track all release packages in [Definitive Media Library (DML)](#definitive-media-library-dml)
 * Manage stakeholders
 * Check delivery of Utility and Warranty (Value)
-* Manage reisks
+* Manage risks
 * Ensure knowledge transfer
 * Package, build, test and deploy releases
 * Establish services as described in Service Package
@@ -337,7 +336,7 @@ Should be defined for one or more services:
 
 #### Release and Deployment Manager
 
-Plann, design, build, configure and test all software and hardware for Relase Package
+Plan, design, build, configure and test all software and hardware for Release Package
 
 #### Release Packaging and Build Manager
 #### Deployment Staff

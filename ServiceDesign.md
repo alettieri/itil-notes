@@ -4,7 +4,7 @@
 * New
 * New and Modified _processes_ 
 
-> We're desigining Service and Process solutions
+> We're designing Service and Process solutions
 
 Processes:<a href="#processes"></a>
 
@@ -27,13 +27,13 @@ Processes:<a href="#processes"></a>
 
 Right person for the job
 
-### Skills Framewfork for the Information Age (SFIA)
+### Skills Framework for the Information Age (SFIA)
 Example of common reference model for the identification of the skills needed to develop effective IT Services.
 
 
 ## Process Owner
 
-Responssible and Accountable for a specific process.
+Responsible and Accountable for a specific process.
 
 > For example if we were to define the SLM process, a Process Owner will be assigned to the process.
 
@@ -47,11 +47,11 @@ Accountable for Day-to-Day responsibility of a process.
 * Manage resources
 * Work with service owners and other process managers
 * Monitor and Report on Performance
-* Identify improvements for Continous Service Integration
+* Identify improvements for Continuous Service Integration
 * Work with CSI manager and process owner to review and prioritize improvements
 * Make improvements to process implementation
 
-## Process Practictioner
+## Process Practitioner
 
 Carries out the process
 
@@ -118,13 +118,13 @@ Includes:
 Does not Include:
 
 * Responsibility for any activities or processes outside of the design stage
-* Designing the detailed service solutions themselves of the production fo the individual parts of the SDPs. Individual Projects or srevices managenemnt are responsible for these.
+* Designing the detailed service solutions themselves of the production of the individual parts of the SDPs. Individual Projects or services management are responsible for these.
 
 ## Service Design Aspects (On Test)
 
 There are 5 Aspects of Design (On Test)
 
-* Proccesses
+* Processes
 * Technology & Architecture
 * Measurement
 * Service Management Systems
@@ -139,7 +139,7 @@ There are 5 Aspects of Design (On Test)
 * Partners
 
 ## People
-People skills and comptentencies involved in supplying IT services
+People skills and competencies involved in supplying IT services
 
 ## Products
 Technology stack and management systems that deliver the IT service
@@ -170,11 +170,11 @@ Tools can assist by:
 
 ## Service Level Management
 
-Ensure an _agreed upon_ level of all current IT services and future services are delvivered upon _achievable_ targets
+Ensure an _agreed upon_ level of all current IT services and future services are delivered upon _achievable_ targets
 
 * Service Level Requirements - SLR
 * Service Level Agreement - SLA
-Responsbilities of both parties. Emphasis must be on agreement. Are we achieveing the level of service we agreed upon with the customer?
+Responsibilities of both parties. Emphasis must be on agreement. Are we achieving the level of service we agreed upon with the customer?
 * Operational Level Agreement - OLA
 
 Is an agreement that your internal department will provide a level of agreement. Agreement between departments of the same organization.
@@ -183,14 +183,14 @@ Is an agreement that your internal department will provide a level of agreement.
 
 Service provider and external supplier agree on delivery of service. 
 
-> Internet provider will provide internet service to web host provider
+> Internet provider will provide Internet service to web host provider
 
 ## Service Based SLA
 
 ### Service Based SLA
 * Covers one service, for all customers of the service
 
-### Cusotmer Based SLA
+### Customer Based SLA
 * SLA is an agreement with an individual customer group, covering all the services they use
 
 ### Multi-Level SLA
@@ -199,10 +199,10 @@ Service provider and external supplier agree on delivery of service.
 * Service Level
 
 #### Corporate Level
-Coversa ll the generic SLM issues appropriate to every customer in organziation
+Covers all the generic SLM issues appropriate to every customer in organization
 
 #### Customer Level
-Covers all SLM issues relevant to particular customer group or busines unit, regardless of the service being used
+Covers all SLM issues relevant to particular customer group or business unit, regardless of the service being used
 
 #### Service Level
 Covers all SLM issues relevant to the specific service, in relation to a specific customer group
@@ -212,14 +212,14 @@ Covers all SLM issues relevant to the specific service, in relation to a specifi
 * Produced and Agreed Upon
 * involve customer early
 * Use for in-depth discussion with business
-* Provisional targets may be included withi a pilot SLA
+* Provisional targets may be included with a pilot SLA
 
 
-### Acitvities
+### Activities
 
 * Determine, negotiate, document and agree upon requirements
-* Monitor and measure SPA (Service Performance Achievemnets)
-* Measure and improve customer satisfactin
+* Monitor and measure SPA (Service Performance Achievements)
+* Measure and improve customer satisfaction
 * Service reports using SLAM charts SLA - Monitoring]
 
 ### Service Reviews
@@ -232,10 +232,10 @@ Covers all SLM issues relevant to the specific service, in relation to a specifi
 
 ### Service Improvement Program (SIP)
 
-All proccess and areas of service provider organization are involved
+All process and areas of service provider organization are involved
 
-* If Service quality is adversely impacted, SLM must instigate an SIP to resotre service quality.
-* Identify why service levels arent where they should be. How can we Improve them?
+* If Service quality is adversely impacted, SLM must instigate an SIP to restore service quality.
+* Identify why service levels aren't where they should be. How can we Improve them?
 
 ### Key Performance Indicator (KPI)
 
@@ -365,7 +365,7 @@ Tools - (Read in Book):
 
 * Demand Management
 * Modeling
-* Baselining
+* Baselinging
 * Trend analysis
 * Analytical Models
 * Simulation Modeling
@@ -551,9 +551,9 @@ Overall goal protect information from harm:
 	* Risks and risk management
 * Prioritization of confidentiality, integrity and [availability](#availability-management)
 * Implement and Document controls
-* Mnage supplier contracts regarding security
+* Manage supplier contracts regarding security
 * Manage security breaches
-* Promote awarness
+* Promote awareness
 
 > Business may have no choice to implement because of Legislature.
 
@@ -561,10 +561,10 @@ Overall goal protect information from harm:
 
 Policies should cover:
 
-* Use and misue of assets
+* Use and misuse of assets
 * Access control
 * Password
-* Email, internet and anti-virus
+* Email, Internet and anti-virus
 * Information classification
 * Document classification
 * Remote access
@@ -583,11 +583,11 @@ Policies should cover:
 How to mage supplier.
 
 * Value for money
-* Mange suppliers and servivces they supply
+* Mange suppliers and services they supply
 * Underpinning contracts assigned to SLAs
 * maintain supplier policy
 
-> What type of veting is required to allow us to contract with you? 
+> What type of vetting is required to allow us to contract with you? 
 
 
 ### Roles and Interfaces - Slide 68
@@ -601,10 +601,10 @@ Overview of Service Suppliers
 ### Scope
 
 * Management of all suppliers and contracts needed for the IT services
-* Process should adapt to the imprtance of the contract
+* Process should adapt to the importance of the contract
 * Provide insight in the impact of contracts on services
 * Understand how groups of individual contracts can contribute to value creation
-* Prioritize how attetion is divided across suppliers and contracts
+* Prioritize how attention is divided across suppliers and contracts
 * Maintenance of contracts
 * Contract reviews
 * Improvement plans
