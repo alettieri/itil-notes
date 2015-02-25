@@ -50,3 +50,43 @@ Impact = Effect upon the business
 
 Urgency = Extent to which the resolution can bear delay
 
+## Metrics
+
+The KPIs (Key Performance Indicators) for Incident Management are:
+
+Percentage of Incidents:
+
+* Handled within agreen time
+* Assigned incorrectly
+* Resolved by Service Desk (and by other teams)
+* Processed per agent
+
+## Challenges
+
+* Detected as early as possible
+* Staff need to log all Incidents
+* Availability of information about Problems and Known Errors, work-arounds
+* Integation into the Configuration Management System (CMS)
+* Integration into the Service Level Management Process
+
+## Roles
+
+* Incident Manager
+* Service Desk
+* Second, third, n-th tear specialist
+
+
+## Interfaces - Slide 39
+
+* SLM
+* Access
+* Problem
+* Change
+* Incident management
+* Information Security
+* Capacity
+* Availability
+* SACM
+
+
+
