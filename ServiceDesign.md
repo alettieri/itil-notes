@@ -96,7 +96,7 @@ VBF used to reflect the part of a business process that is critical to the succe
 ## Service Design Package
 
 Defines a set of design constraints
-Package is passed to -> Service Transition
+Package is passed to &rarr; Service Transition
 
 Solution space is defined within constraints. 
 
