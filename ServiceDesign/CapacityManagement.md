@@ -28,7 +28,7 @@ Ensure the current and future capacity and performance demands of the customer r
 
 > Keep our servers cool, example of __Environmental Capacity__
 
-## (On Test) Basic Concepts - Slide 50
+## Basic Concepts - Slide 50
 
 __On Test__
 
