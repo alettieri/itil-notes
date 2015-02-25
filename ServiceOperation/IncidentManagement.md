@@ -40,5 +40,5 @@ _Standard_ or _specialized_ Incidents are handled in predefined path and within 
 
 Sequence of Incident Reporting:
 
-Identification &rarr; Logging &rarr; Categorization &rarr; Prioritization &rarr; Initial Diagnosis &rarr; Investigation and Diagnosiss &rarr; Resolution and Recovery &rarr; Closure
+`Identification` &rarr; `Logging` &rarr; `Categorization` &rarr; `Prioritization` &rarr; `Initial Diagnosis` &rarr; `Investigation and Diagnosiss` &rarr; `Resolution and Recovery` &rarr; `Closure`
 
