@@ -15,6 +15,7 @@
 
 ![ITIL Process Chart](assets/itil-process.jpg)
 
+
 # Business and Information Technology
 
 * Prioritize Information, it's valuable

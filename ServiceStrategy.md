@@ -102,10 +102,12 @@ Services added to a core service to make it more exciting and enticing
 
 ### Strategy Processes
 
+__On Test__
+
 Affected by External and Internal Processes:
 
-`Define the Market` &rarr; `Develop Offerings` &rarr; `Develop Strategic Assets` &rarr; `Prepare for Execution`
 
+`Define the Market` &rarr; `Develop Offerings` &rarr; `Develop Strategic Assets` &rarr; `Prepare for Execution`
 
 
 > #### Additional Service Value Concepts
@@ -116,126 +118,10 @@ Affected by External and Internal Processes:
 Service Provider depends on its strategic assets to succeed
 
 
-## Service Portfolio Management<a href="#portfoliomanagement"></a>
-Provider has right mix of services to balance the investment in IT. 
-
-* Which services to provide
-* maintain definitive portfolio
-* Evaluate how to achieve their strategy
-* [Control](#control) services offered
-
-> __Control:__<a name="#control"></a> Phone providers control data access by allocating a number of MB per month
-
-### Scope
-
-* Services in pipeline, services that are being delivered (catalog), retirement
-* Primary concern, generating value from the service
-* Working with business units to link each service to outcomes
-* Evaluation - evaluate how the new service provides better value
-
-> Service Portfolio Management is Cyclical
-> `...` > `Define` > `Analyze` > `Approve` > `Charter` > `...`
-
-#### Define
-Define the need of the business and how the service can meet that need. Business case.
-
-#### Analyze
-Value proposition. Prioritization - define requirements and resources that _could_ be allocated.
-
-#### Approve
-Go over analysis and receive sign-off on implementing the proposition.
-* What will this do for or to us
-
-#### Charter
-Communicate to the stakeholders and assign resources
-
-
-## Demand Management
-
-Understand customer demand for services. Provision the capacity to meet the demands
-
-* Minimize uncertainty in demand
-* Provide reliable planning data for [Capacity Management](#)
-* Avoid underused capacity and over capacity
-
-> Demand Management provides data for [Capacity Management](#)
-
-
-#### Patterns of Business Activity (PBA)
-
-Function of Demand Management
-
-##### Classification
-Where did it originate
-
-##### Attributes
-Frequency, volume, location and duration
-
-##### Requirements
-Performance, security, availability, privacy, latency or tolerance for delay
-
-##### Service asset requirements
-Draft a Utilization profile that contains resources that facilitate a PBA.
-
-
-## Financial Management
-
-* Secure the appropriate level of funding. Funding has to meet design, develop and deliver services to meet organizations needs and strategy
-* Acts as a median to ensure that we're not over committing
-* Balance between cost and quality 
-
-> Money
-
-Scope:
-
-* Budgeting
-* Accounting
-* Charging
-
-### Objectives
-
-* maintain a cost framework
-* financial impact
-* Funding
-* good stewardship
-* expense and income (duh)
-* Manage expenditure
-* Financial policies
-* Accounting
-* forecasting
-* Reovering costs
-
-
-## BRM - Business Relationship Management
-
-Establish and maintain business relationship between the service provider and the customer. Idenitify customer needs and ensure we can meet them.
-
-> Getting to know people and who you're supporting. Then determine how to help them achieve a goal. 
-
-* Ensure high level of customer satisfaction. 
-
-> We don't need a yes man. 
-
-* Establish and maintain relationship between service and customer. 
-* Identify changes to environment that could impact the service provided.
-
-> Customers may not like the system because they're not using it properly.
-> Training might help target that issue that. 
-
-* Establish and articulate business requirements for new services
-* Work with customers to ensure that we're delivering
-
-> Know the Business and IT
-
-### Business Relationship Management - Scope: 
-
-* Outcomes needed to achieve
-* Services offered and how they're used by the customer
-* Trends in technology can impact current services
-
-> Example: Video Card drives may not work on upgraded OS
-
-* Customer satisfaction and what action plans have been put in place
+[Business Relationship Management](ServiceStrategy/BusinessRelationshipManagement.md)
+[Demand Management](ServiceStrategy/DemandManagement.md)
+[Financial Management](ServiceStrategy/FinancialManagement.md)
+[Service Portfolio Management](ServiceStrategy/ServicePortfolioManagement.md)
 
 
 ### Terminology
@@ -280,7 +166,6 @@ Protocol that the service provider folows
 * Service Analytics
 * Service Interfaces
 * Risk Management
-
 
 
 ### Organizational Development Stages
