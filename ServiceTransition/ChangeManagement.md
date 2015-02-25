@@ -82,13 +82,13 @@ __On Test__
 
 __On Test__
 
-* __Rai__sed
-* __Rea__son
-* __Ret__urn
-* __Ris__ks
-* __Res__ources
+* **Rai**sed
+* **Rea**son
+* **Ret**urn
+* **Ris**ks
+* **Res**ources
 * **Resp**onsible
-* __Rel__ationship
+* **Rel**ationship
 
 ### Planning and Scheduling
 
