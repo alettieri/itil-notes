@@ -1,5 +1,7 @@
 # Service Transition
 
+Design &rarr; __Transition__ &rarr; Operation
+
 Time to deliver what has been designed. Receive [Service Design Package (SDP)](ServiceDesign.md#service-desing-package) and bring it into the Operational Stage.
 This is the time adjustments will need to be made based on Design changes due to business circumstances, assumptions or requirement changes.
 
@@ -57,7 +59,7 @@ __ON TEST__
 * [Knowledge Management](ServiceTransition/KnowledgeManagement.md)
 * Transition Planning and Support
 
-Design &rarr; __Transition__ &rarr; Operation
+
 
 
 

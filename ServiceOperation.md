@@ -1,8 +1,8 @@
 # Service Operation
 
-Continues to meet the needs of the business. Meets day to day expectations. 
-
 Design &rarr; Transition &rarr; __Operation__
+
+Continues to meet the needs of the business. Meets day to day expectations. 
 
 Provide Guidance on Operational Services:
 
