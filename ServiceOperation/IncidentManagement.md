@@ -42,3 +42,11 @@ Sequence of Incident Reporting:
 
 `Identification` &rarr; `Logging` &rarr; `Categorization` &rarr; `Prioritization` &rarr; `Initial Diagnosis` &rarr; `Investigation and Diagnosiss` &rarr; `Resolution and Recovery` &rarr; `Closure`
 
+## Prioritization
+
+Priority = Urgency x Impact
+
+Impact = Effect upon the business
+
+Urgency = Extent to which the resolution can bear delay
+
