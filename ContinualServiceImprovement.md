@@ -85,7 +85,7 @@ __ON TEST__
 * Understand what to measure, why it is being measured and carefully define the successful outcome
 
 > Understand what we are working on improving
-> What are we measuring, analyzing and reporting on?
+> What are we measuring, analyzing and reporting on?1
 
 ### Scope
 
