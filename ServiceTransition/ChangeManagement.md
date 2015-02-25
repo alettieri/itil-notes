@@ -87,7 +87,7 @@ __On Test__
 * __Ret__urn
 * __Ris__ks
 * __Res__ources
-* __Res__ponsible
+* *Resp*onsible
 * __Rel__ationship
 
 ### Planning and Scheduling
