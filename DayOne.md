@@ -6,7 +6,7 @@
 
 # The Quint essential parts of ITIL
 
-* Business
+* ITIL LIFE CYCLE
 	* [Service Strategy](ServiceStrategy.md)
 	* [Service Design](ServiceDesign.md)
 	* [Service Transition](ServiceTransition.md)
@@ -14,7 +14,6 @@
 	* Continual Service Improvement
 
 ![ITIL Process Chart](assets/itil-process.jpg)
-
 
 # Business and Information Technology
 
