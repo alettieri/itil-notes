@@ -1,8 +1,8 @@
-## Design Coordination
+# Design Coordination
 
 > Keep all the plates [(processes)](#processes) spinning, make sure they're never dropped
 
-## Design Coordination - Scope
+## Scope
 
 Includes:
 
@@ -34,21 +34,21 @@ There are 5 Aspects of Design (On Test)
 * Partners
 
 
-## People
+### People
 People skills and competencies involved in supplying IT services
 
-## Products
+### Products
 Technology stack and management systems that deliver the IT service
 
-## Processes
+### Processes
 the processes, roles and activities involved in the provision of IT services
 
-## Partners
+### Partners
 
 The vendors, manufacturers and suppliers used to assist and support IT service provision.
 
 
-## Technology and Architecture - Service Design
+### Technology and Architecture - Service Design
 
 Tools used for:
 
