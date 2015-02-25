@@ -64,7 +64,7 @@ __ON TEST__
 0. Where are we now?
 0. Where do we want to be?
 0. How do we get there?
-0. Did we get there? -> How do we keep it going?
+0. Did we get there? &rarr; How do we keep it going?
 
 
 
