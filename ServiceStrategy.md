@@ -117,6 +117,7 @@ Affected by External and Internal Processes:
 ## Service Management as a Strategic Asset
 Service Provider depends on its strategic assets to succeed
 
+### Service Strategies
 
 * [Business Relationship Management](ServiceStrategy/BusinessRelationshipManagement.md)
 * [Demand Management](ServiceStrategy/DemandManagement.md)
