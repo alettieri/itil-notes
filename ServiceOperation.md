@@ -21,10 +21,10 @@ Describes the following processes:
 
 Functions:
 
-* Service Desk
-* Technical Management
-* IT Operation Management
-* Application Management
+* [Service Desk](ServiceOperation/ServiceDesk.md)
+* Technical Management(ServiceOperation/TechnicalManagement.md)
+* IT Operation Management(ServiceOperation/ITOperationManagement.md)
+* Application Management(ServiceOperation/ApplicationManagement.md)
 
 ### Objectives
 
@@ -69,195 +69,20 @@ Coordinate and carry out processes to deliver and manage services at agreed leve
 >
 > They have to be approved
 
-### Functions
+## Functions
 
 People and automated measures that execute a defined process, an activity combo or both.
 
 Define the different roles and responsibilities required for overall service delivery.
 
-* Service Desk
-* Technical Management
-* IT Operations Management
-	* [Operations control](#it-operations-control)
+* [Service Desk](ServiceOperation/ServiceDesk.md)
+* [Technical Management](ServiceOperation/TechnicalManagement.md)
+* [IT Operations Management](ServiceOperation/ITOperationManagement.md)
+	* [Operations control](ServiceOperation/ITOperationManagement.md#it-operations-control)
 	* Facilities including data centers
-* Application Management
+* [Application Management](ServiceOperation/ApplicationManagement.md)
 
 
-## Service Desk
+[Service Operation Processes](ServiceOperation/ServiceOperationProcesses.md)
 
-* Complaints
-* Event
-* Incident
-* Service Request
-* Other
-
-### Role
-
-Restore normal service or request as soon as possible. 
-
-### Organizational Structure
-
-#### Local
-
-Located within physical business.
-
-Pro: 
-
-* Higher visibility
-* Easier communication
-* Close to user population
-
-Con:
-
-* Inefficient
-* Costly
-
-### Centralized
-
-Merges Local Service Desk into a single location.
-
-Pro:
-
-* More efficient
-* Cost effective
-
-Con:
-
-* Distance from users
-
-### Virtual
-
-Impression of a single, Centralized Service Desk, located in any number of locations.
-
-Pro: 
-
-* More efficient
-* Cost effective
-
-Disadvantage:
-
-* need safeguards of common processes, tools and single shared database of information and shared culture
-
-### Staffing - Slide 17
-
-* Staffing Level
-	* How many?
-	* Where?
-	* At what time?
-* Skill Level
-	* Skilled
-	* Unskilled
-* Training Requirements
-	* Soft skills
-	* Technical skills
-	* Tools
-	* business awareness
-	* processes
-* Staff Retention
-	* Measure to retain staff: rewards, motivation, training
-* Required Skills
-	* Communication, soft skills
-
-<table>
-	<tr>
-		<td></td>
-		<td>Handling Rate</td>
-		<td>Resolution Rate</td>
-	</tr>
-	<tr>
-		<td>Technically Unskilled</td>
-		<td>High</td>
-		<td>Low</td>
-	</tr>
-	<tr>
-		<td>Resolution Rate</td>
-		<td>Low</td>
-		<td>High</td>
-	</tr>
-</table>
-
-
-### Hard Metrics
-
-* Call handling statistics
-* Time to escalate on Incident
-* Time to resolve Incident by Service Desk
-
-### Soft Metrics
-
-* Customers feel questions were answered affectively
-* Agent was courteous and professional
-* Agent instilled confidence in user
-
-## Technical Management
-
-Maintain stable technical infrastructure
-
-Provide tech hands-on skills and resources to support IT infrastructure
-
-## Application Management
-
-Support and maintain stable applications to support business process
-
-* Support and maintain operational applications
-* Custodian of tech knowledge and expertise related to managing apps
-
-## IT Operation Management
-
-Daily operational activities needed to manage IT infrastructure
-
-### IT Operations Control
-* Maintain stability of day-to-day processes
-* Diagnose and resolve failures
-* Operational activities needed to maintain IT infrastructure
-* Console Management
-
-### Facilities Management
-* Management of physical IT environment, usually data centers or computer rooms
-
-> Facilities == Physical
-
-## Service Operation Processes - Slide 24
-
-__On Test__
-
-Processes:
-
-* Event Management
-* Incident Management
-* Problem Management
-* Request Fulfillment
-* Access Management
-
-### Event Management 
-
-* Detecting changes of state that have meaning for management of a CI or IT service
-* Determine appropriate action for events and ensure communication to appropriate functions
-* Provide the trigger, or entry point, execution of many service operation processes and operations management activities
-* Provide basis for service assurance and reporting
-
-> Operations define the metrics for Event Management
-
-#### Scope
-
-Any Service Management aspect can be monitored through Event Management.
-
-* Environmental Conditions
-	* Hot, Dry, Humid
-* Software
-* Security
-
-#### Roles
-
-__Service Desk__
-
-Primary Role, monitor and escalate the event
-
-__Technical Application Management___
-
-Define event and deal with incidents related to event
-
-__IT operations Management__
-
-Event Monitoring, provide initial response
 

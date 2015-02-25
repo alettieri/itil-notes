@@ -15,6 +15,11 @@ __On Test__
 
 > It's important not to make decisions on bad knowledge. 
 
-Data is stored in traditional database, like a CMDB. Information can be found as the Configuration Management System (CMS). Knowledge is stored in the Service Knowledge Management System (SKMS). Wisdom can be managed and stored or managed by a tool.
+Data is stored in traditional database, like a CMDB. 
+
+* Information can be found as the Configuration Management System (CMS) knowledge is stored in the Service Knowledge Management System (SKMS).
+* Wisdom can be managed and stored or managed by a tool.
+
+> The CMS is part of the SKMS
 
 ### Service Knowledge Management System - Slide 44
