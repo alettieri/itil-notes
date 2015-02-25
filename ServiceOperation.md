@@ -13,7 +13,7 @@ Provide Guidance on Operational Services:
 
 Describes the following processes:
 
-* Incident Management
+* [Incident Management](ServiceOperation/IncidentManagement.md)
 * Event Management
 * Request Fulfillment
 * Access Management
@@ -260,6 +260,4 @@ Define event and deal with incidents related to event
 __IT operations Management__
 
 Event Monitoring, provide initial response
-
-#### Incident Management
 
