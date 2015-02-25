@@ -82,13 +82,13 @@ __On Test__
 
 __On Test__
 
-* Raised
-* Reason
-* Return
-* Risks
-* Resources
-* Responsible
-* Relationship
+* __Rai__sed
+* __Rea__son
+* __Ret__urn
+* __Ris__ks
+* __Res__ources
+* __Res__ponsible
+* __Rel__ationship
 
 ### Planning and Scheduling
 
