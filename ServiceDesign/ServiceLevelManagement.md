@@ -4,14 +4,11 @@ Ensure an _agreed upon_ level of all current IT services and future services are
 
 * Service Level Requirements - SLR
 * Service Level Agreement - SLA
-Responsibilities of both parties. Emphasis must be on agreement. Are we achieving the level of service we agreed upon with the customer?
+	* Responsibilities of both parties. Emphasis must be on agreement. Are we achieving the level of service we agreed upon with the customer?
 * Operational Level Agreement - OLA
-
-Is an agreement that your internal department will provide a level of agreement. Agreement between departments of the same organization.
-
+	* Is an agreement that your internal department will provide a level of agreement. Agreement between departments of the same organization.
 * Underpinning Contract - UC
-
-Service provider and external supplier agree on delivery of service. 
+	* Service provider and external supplier agree on delivery of service. 
 
 > Internet provider will provide Internet service to web host provider
 
