@@ -14,10 +14,10 @@ Provide Guidance on Operational Services:
 Describes the following processes:
 
 * [Incident Management](ServiceOperation/IncidentManagement.md)
+* [Problem Management](ServiceOperation/ProblemManagement.md)
+* [Request Fullfilment](ServiceOperation/RequestFullfilment.md)
 * Event Management
-* Request Fulfillment
 * Access Management
-* Problem Management
 
 Functions:
 
