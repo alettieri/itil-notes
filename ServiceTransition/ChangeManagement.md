@@ -29,7 +29,7 @@ All changes are:
 
 ### Service Change
 
-Addition, MOdification or Removal of a service component and its associated documentation.
+Addition, Modification or Removal of a service component and its associated documentation.
 
 > Not every change is important, but every improvement is a change
 
