@@ -15,9 +15,11 @@ Does not Include:
 * Responsibility for any activities or processes outside of the design stage
 * Designing the detailed service solutions themselves of the production of the individual parts of the SDPs. Individual Projects or services management are responsible for these.
 
-## Service Design Aspects (On Test)
+## Service Design Aspects
 
-There are 5 Aspects of Design (On Test)
+__On Test__
+
+There are 5 Aspects of Design
 
 * Processes
 * Technology & Architecture
