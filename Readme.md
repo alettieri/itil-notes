@@ -11,7 +11,7 @@
 	* [Service Design](ServiceDesign.md)
 	* [Service Transition](ServiceTransition.md)
 	* [Service Operation](ServiceOperation.md)
-	* Continual Service Improvement
+	* [Continual Service Improvement](ContinualServiceImprovement.md)
 
 ![ITIL Process Chart](assets/itil-process.jpg)
 
