@@ -157,6 +157,7 @@ Within the service provider organization there are many different stakeholders i
 ## Internal and External Customers
 
 __Internal:__ Are customers who work in the same organization as the provider
+
 __External:__ Customers who are not employued by the org, or organization that are a seperate legal entity that purchase a service from the provider
 
 * Not all customers are the same, no matter how consistent they're treated
