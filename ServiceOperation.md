@@ -22,9 +22,9 @@ Describes the following processes:
 Functions:
 
 * [Service Desk](ServiceOperation/ServiceDesk.md)
-* Technical Management(ServiceOperation/TechnicalManagement.md)
-* IT Operation Management(ServiceOperation/ITOperationManagement.md)
-* Application Management(ServiceOperation/ApplicationManagement.md)
+* [Technical Management](ServiceOperation/TechnicalManagement.md)
+* [IT Operation Management](ServiceOperation/ITOperationManagement.md)
+* [Application Management](ServiceOperation/ApplicationManagement.md)
 
 ### Objectives
 
