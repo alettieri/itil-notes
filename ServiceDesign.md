@@ -7,7 +7,6 @@
 
 ## Processes
 
-* [Design Coordination](ServiceDesign/DesignCoordination.md)
 * [Service Level Management](ServiceDesign/ServiceLevelManagement.md)
 * [Capacity Management](ServiceDesign/CapacityManagement.md) -> Depends on [Demand Management](ServiceStrategy.md#demand-management)
 * [Availability Management](ServiceDesign/AvailabilityManagement.md)
@@ -15,6 +14,7 @@
 * [Information Security Management](ServiceDesign/InformationSecurityManagement.md)
 * [Supplier Management](ServiceDesign/SupplierManagement.md)
 * [Service Catalog Management](ServiceDesign/ServiceCatalogManagement.md) -> Depends on [Service Portfolio Management](ServiceStrategy/ServicePortfolioManagement.md)
+* [Design Coordination](ServiceDesign/DesignCoordination.md)
 
 ## Value to Business
 
