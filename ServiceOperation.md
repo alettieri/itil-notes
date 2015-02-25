@@ -78,7 +78,7 @@ Define the different roles and responsibilities required for overall service del
 * Service Desk
 * Technical Management
 * IT Operations Management
-	* Operations control
+	* [Operations control](#operations-control)
 	* Facilities including data centers
 * Application Management
 
