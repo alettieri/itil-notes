@@ -67,5 +67,103 @@ __ON TEST__
 0. Did we get there? &rarr; How do we keep it going?
 
 
+## Seven Step Improvement
 
+* Define
+* Gather
+* Process
+* Analyze
+* Present
+* Implement Improvements
+
+### Objective
+
+* Identify opportunities for improving services, processes, tools etc.
+* Reduce the cost of providing services and ensuring that IT services enable the required business outcomes to be achieved
+* Identify what needs to be measured, analyzed and reported to establish improvement opportunities
+* Continually align service achievements and provision to business requirements and the expected outcome
+* Understand what to measure, why it is being measured and carefully define the successful outcome
+
+> Understand what we are working on improving
+> What are we measuring, analyzing and reporting on?
+
+### Scope
+
+* Analysis of the performance and capabilities of services, processes throughout the life cycle, partners and tech
+* Continual alignment of the service portfolio with current and future business needs
+* Best use of what we already have and exploiting new tech 
+* Organization structure, the capabilities of the personnel, and asking whether people are working in appropriate functions and roles, and if they have the required skills
+
+### Process Overview
+
+Plan &rarr; Do &rarr; Check &rarr; Act
+
+## From Vision to Measurement
+
+&rarr; `Vision` &rarr; `Mission` &rarr; `Goals` &rarr; `Objectives` &rarr; `CSF` &rarr; `KPI` &rarr; `Metrics` &rarr; `Measurements &rarr;
+
+
+## Metrics
+
+* Key Performance Indicator
+* Critical Success Factor
+* Baselines
+
+CSF has to be defined, what does the success or failure hinge on? 
+
+Now we need to use KPI to monitor the CSF and measure
+
+* CSF All improvement opportunities identified
+	* KPI: % improvement in # of defects
+* CSF The cost of providing services is reduced
+	* KPI: % decreased in cost of service provision
+* CSF Required business for all IT services are achieved
+	* KPI Percentage increase in customer satisfaction
+
+## Types of Metrics CSI monitors
+
+* Technology
+* Process
+* Service metrics
+
+## Activities
+
+* Review management info
+* Analyze trends
+* Produce/Analyze SLA reports
+* Conduct maturity assessments
+* Conduct internal audits
+* Customer satisfaction surveys
+* Internal and external reviews
+
+## Role
+
+### CSI Manager
+Responsible for the success of all improvement activities
+
+* Define, monitor analyze and report on KPIS and CSFS
+* Coordinate CSI activities
+
+### Service Owner
+* Accountable for a __specific__ service
+
+## Interfaces
+
+Interacts with all services and process owners and all other stages of the ITIL life-cycle
+
+## Inputs and Outputs
+
+CSI provides feedback to all Life cycle stages
+
+## Interface with Service Level Management
+
+* Service Level Management is critical to Continuous Service Improvement
+
+## Risk Management
+
+> Minimize Risk and Maximize Value
+
+* Risk is _uncertain_ outcomes, whether positive or negative actions or events
+* Changes to Portfolio need a Risk assessment
+* Failure to take opportunity is risk
 
