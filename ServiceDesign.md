@@ -77,8 +77,8 @@ Carries out the process
 
 ### Service Portfolio
 * Contains information on all future requirements
-User does not need details
-Supports all processes
+* User does not need details
+* Supports all processes
 
 ### Service Catalog
 * Contains all details of operational services
