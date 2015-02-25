@@ -7,21 +7,26 @@
 > Steve jobs had a vision of what Apple was going to be.
 > He defined what good should look like.
 
-## Main Purpose
 Think about the _Why_ before _How_
+
+
+### Objective
 
 * Identify opportunities
 * Understanding Capability (cost might be an example)
 
-## Service Value Definition - 76 - Test
+### Service Value Definition - Slide 7
+
+__On Test__
+
 __Service Value__ = Utility + Warranty
 
-### Utility:
+#### Utility:
 
 * Performance Supported?
 * Constraints Removed?
 
-### Warranty:
+#### Warranty:
 
 * Available enough ? 
 * Capacity enough ? 
@@ -31,7 +36,7 @@ __Service Value__ = Utility + Warranty
 
 Key ITIL Concepts:
 
-## The Four Ps
+#### Service Strategy purpose
 
 __On Test__
 
