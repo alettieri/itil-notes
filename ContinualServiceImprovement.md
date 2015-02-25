@@ -53,9 +53,7 @@ Processes: _Health_ of IT Security Management and _maturity_ of the IT processes
 
 __ON TEST__
 
-### Deming Cycle
-
-**Plan**-**Do**-**Check**-**Act**
+### Deming Cycle: **Plan**-**Do**-**Check**-**Act**
 
 * Continual Service Improvement Model
 	* High Level of Continual Service Improvement
