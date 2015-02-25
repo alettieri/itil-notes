@@ -1,5 +1,5 @@
 
-## Release and Deployment Management
+# Release and Deployment Management
 
 Define and agree deployment plans
 
@@ -14,7 +14,7 @@ Define and agree deployment plans
 * Hand over services to operations
 * Includes all configuration items
 
-> ####### Definitive Media Library (DML)
+> ###### Definitive Media Library (DML)
  Records all of our software, licenses and documentation
 
 ## Concepts
@@ -46,18 +46,22 @@ One or more release units to upgrade from as-is to to-be situation
 	* Processing all of the above
 * Manual
 
-### Four Phases - Slide 37
+## Four Phases - Slide 37
 
 __On Test__
 
-[Change Management](#change-management) oversees and authorizes all of Relase Management.
 
-* Release and deployment planning
-* Release build and test
-* Deployment
-* Review and close
 
-### Release Policy
+* Change Management
+	* Release and deployment planning
+	* Release build and test
+	* Deployment
+	* Review and close
+
+> #####[Change Management](/ServiceTransition/ChangeManagement.md) 
+> Oversees and authorizes all of Relase Management.
+
+## Release Policy
 
 Should be defined for one or more services:
 
@@ -66,14 +70,14 @@ Should be defined for one or more services:
 * Expected frequency for each type of release
 * Exit and entry criteria and authority for acceptance of the release into each Service Transition stage
 
-#### Types - Slide 39
+### Types - Slide 39
 
 * Major Release
 * Minor Release
 * Emergency Release
 	* [Known Errors](#ServiceOperations.md)
 
-### Roles
+## Roles
 
 #### Release and Deployment Manager
 
@@ -83,7 +87,7 @@ Plan, design, build, configure and test all software and hardware for Release Pa
 #### Deployment Staff
 #### Early Life Support
 
-### Release and Deployment Model
+## Release and Deployment Model
 
 Include:
 
