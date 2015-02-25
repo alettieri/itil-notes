@@ -118,10 +118,10 @@ Affected by External and Internal Processes:
 Service Provider depends on its strategic assets to succeed
 
 
-[Business Relationship Management](ServiceStrategy/BusinessRelationshipManagement.md)
-[Demand Management](ServiceStrategy/DemandManagement.md)
-[Financial Management](ServiceStrategy/FinancialManagement.md)
-[Service Portfolio Management](ServiceStrategy/ServicePortfolioManagement.md)
+* [Business Relationship Management](ServiceStrategy/BusinessRelationshipManagement.md)
+* [Demand Management](ServiceStrategy/DemandManagement.md)
+* [Financial Management](ServiceStrategy/FinancialManagement.md)
+* [Service Portfolio Management](ServiceStrategy/ServicePortfolioManagement.md)
 
 
 ### Terminology
