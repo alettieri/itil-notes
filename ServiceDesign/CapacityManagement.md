@@ -1,4 +1,4 @@
-## Capacity Management
+# Capacity Management
 
 Ensure the current and future capacity and performance demands of the customer regarding IT service provision are delivered against justifiable costs
 
@@ -9,16 +9,16 @@ Ensure the current and future capacity and performance demands of the customer r
 >
 > Demand Management __&rarr;__ Capacity Management
 
-### Improvement Measures
+## Improvement Measures
 
 * Capacity Plan
 * Agreed upon Service Level Agreement (SLA)
 * Advice and guidance
 
-> ##### Capacity Plan
+> #### Capacity Plan
 > Help us determine current and future capacity needs of the business
 
-### Scope
+## Scope
 
 * Focal point of all IT performance and capacity issues
 * Encompass all areas of Technology, including facilities and environmental
@@ -28,15 +28,17 @@ Ensure the current and future capacity and performance demands of the customer r
 
 > Keep our servers cool, example of __Environmental Capacity__
 
-### (On Test) Basic Concepts - Slide 50
+## (On Test) Basic Concepts - Slide 50
 
-What's required from a:
+__On Test__
 
-* Business Capacity Management
-* Service Capacity Management
-* Component Capacity Management
+Three Sub Processes:
 
-#### Business Capacity Management
+* [Business Capacity Management](#business-capacity-management)
+* [Service Capacity Management](#service-capacity-management)
+* [Component Capacity Management](#component-capacity-management)
+
+### Business Capacity Management
 
 * Does the business have the capacity for a particular service. 
 * From a good outcome, does the Business have the capacity to meet that good outcome
@@ -44,14 +46,14 @@ What's required from a:
 > ###### Verizon Example
 > Do we have the capacity to allow our customers to upgrade their phones whenever they want?
 
-#### Service Capacity Management
+### Service Capacity Management
 
 * End-To-End Service
 
 > ###### Example
 > SharePoint as a Service
 
-#### Component Capacity Management
+### Component Capacity Management
 
 Ensure IT infrastructure finite resources are monitored and measured
 
@@ -71,7 +73,7 @@ Tools - (Read in Book):
 * The Capacity Management Information System (CMIS)
 
 
-### Role - __Capacity Manager__
+## Role - __Capacity Manager__
 
 Responsible for ensuring:
  
