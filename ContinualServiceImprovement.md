@@ -85,7 +85,7 @@ __ON TEST__
 * Understand what to measure, why it is being measured and carefully define the successful outcome
 
 > Understand what we are working on improving
-> What are we measuring, analyzing and reporting on?1
+> What are we measuring, analyzing and reporting on?
 
 ### Scope
 
@@ -100,7 +100,7 @@ Plan &rarr; Do &rarr; Check &rarr; Act
 
 ## From Vision to Measurement
 
-&rarr; `Vision` &rarr; `Mission` &rarr; `Goals` &rarr; `Objectives` &rarr; `CSF` &rarr; `KPI` &rarr; `Metrics` &rarr; `Measurements &rarr;
+`...` &rarr; `Vision` &rarr; `Mission` &rarr; `Goals` &rarr; `Objectives` &rarr; `CSF` &rarr; `KPI` &rarr; `Metrics` &rarr; `Measurements` &rarr; `...`
 
 
 ## Metrics
