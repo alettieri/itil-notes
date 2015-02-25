@@ -11,7 +11,7 @@ Provide Guidance on Operational Services:
 * Technology
 * People
 
-Describes the following processes:
+### Processes
 
 * [Event Management](ServiceOperation/EventManagement.md)
 * [Incident Management](ServiceOperation/IncidentManagement.md)
@@ -19,7 +19,7 @@ Describes the following processes:
 * [Request Fullfilment](ServiceOperation/RequestFullfilment.md)
 * [Access Management](ServiceOperation/AccessManagement.md)
 
-Functions:
+### Functions
 
 * [Service Desk](ServiceOperation/ServiceDesk.md)
 * [Technical Management](ServiceOperation/TechnicalManagement.md)
