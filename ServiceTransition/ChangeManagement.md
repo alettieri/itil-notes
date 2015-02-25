@@ -1,4 +1,4 @@
-## Change Management
+# Change Management
 
 * Respond to customer's changing business requirements while maximizing value and reducing incidents, disruption and re-work
 * Ensure changes are recorded and evaluated
@@ -6,7 +6,7 @@
 * Ensure all changes to configuration items are recorded in Configuration Management System CMS
 * Optimize overall business risk - it is correct to minimize business risk.
 
-### Scope
+## Scope
 
 * Change management covers all Changes
 
@@ -45,7 +45,7 @@ Reserved for significant/highlevel changes.
 
 Normally created by service Portfolio Management process and is passed to Change Management for authorization. 
 
-> Back to [Service Strategy](#ServiceStrategy.md)
+> Back to [Service Strategy](/ServiceStrategy.md)
 
 __Should Include:__
 * Description of new, changed or retired service including Business outcomes and warranty + utility(value) to be provided
@@ -53,7 +53,7 @@ __Should Include:__
 
 > What is the value we're going to get out of it?
 
-### Scope
+#### Scope
 
 Can come from different tiers:
 
